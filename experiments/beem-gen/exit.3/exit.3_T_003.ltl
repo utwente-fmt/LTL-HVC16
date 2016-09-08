@@ -1,0 +1,1 @@
+!(X Person_0=="Spilberk" R (X ((Person_0=="Spilberk" U (Person_0=="Spilberk" && !Person_1=="Malinak")) U Person_1=="Moravak") U (Person_0=="Ceska" && X ((Person_0=="Spilberk" U (Person_0=="Spilberk" && !Person_1=="Malinak")) U Person_1=="Moravak"))))

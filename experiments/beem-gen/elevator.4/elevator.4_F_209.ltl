@@ -1,0 +1,1 @@
+!(<>(Person_0=="in_elevator" R !Elevator=="transporting") R ([]X (Person_1=="in_elevator" R !(Servis=="r" R Person_3=="in_elevator")) || <>(Person_0=="in_elevator" R !Elevator=="transporting")))

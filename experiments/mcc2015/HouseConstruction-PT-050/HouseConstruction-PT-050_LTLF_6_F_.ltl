@@ -1,0 +1,1 @@
+(((action=="t7") U (X(action=="t10"))) U ([]([](X(action=="t18")))))

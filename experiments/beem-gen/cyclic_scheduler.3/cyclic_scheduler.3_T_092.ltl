@@ -1,0 +1,1 @@
+!(customer_3=="running" R (<>[]((scheduler_4=="started" || []scheduler_11=="started") -> scheduler_3=="to_start") <-> (scheduler_10=="started" || <>customer_0=="running")))

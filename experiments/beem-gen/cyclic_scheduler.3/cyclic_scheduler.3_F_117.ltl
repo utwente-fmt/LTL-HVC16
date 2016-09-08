@@ -1,0 +1,1 @@
+!(!([]scheduler_6=="wait" <-> X (<>scheduler_6=="to_start" R (customer_3=="q_error" || <>scheduler_6=="to_start"))) R ((<>!<>scheduler_2=="started" U (customer_12=="running" && <>!<>scheduler_2=="started")) || !([]scheduler_6=="wait" <-> X (<>scheduler_6=="to_start" R (customer_3=="q_error" || <>scheduler_6=="to_start")))))

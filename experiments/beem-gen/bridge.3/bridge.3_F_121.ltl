@@ -1,0 +1,1 @@
+!([]X ([]soldier_8=="go_right" R ([]soldier_8=="go_right" || (soldier_4=="go_right" R (soldier_4=="go_right" || (<>soldier_2=="go_left" <-> (true U soldier_1=="go_left")))))))

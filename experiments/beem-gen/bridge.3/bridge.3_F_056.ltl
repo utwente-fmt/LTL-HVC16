@@ -1,0 +1,1 @@
+!(<>torch=="two" R X (torch=="one" || <>(soldier_8=="right" && (soldier_2=="go_right" U (soldier_2=="go_right" && soldier_2=="right")))))

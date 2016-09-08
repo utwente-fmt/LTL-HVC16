@@ -1,0 +1,1 @@
+!(X <>!(Press=="pressing" R (Belt=="q2" || Press=="pressing" || (Table=="down_full" <-> (<>Robot=="wait" U []Press=="done")))))

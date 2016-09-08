@@ -1,0 +1,1 @@
+!(<>(<>((Elevator=="transporting" R (Elevator=="transporting" || Person_1=="waiting")) U (<>Servis=="r" && (Elevator=="transporting" R (Elevator=="transporting" || Person_1=="waiting")))) -> <>[]Person_2=="in_elevator"))

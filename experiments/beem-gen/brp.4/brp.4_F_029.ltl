@@ -1,0 +1,1 @@
+!((true U Sender=="q_error") R !([]![]Producer=="start_send" <-> <>(L=="got_msg" R !Producer=="check")))

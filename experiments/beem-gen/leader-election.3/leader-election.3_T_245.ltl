@@ -1,0 +1,1 @@
+!(((Node_2=="q2n" R X Node_2=="q1a") <-> (Node_0=="qw" <-> []Node_2=="qwcheck")) R ((Node_0=="q2n" -> Node_4=="qwcheck") U (Node_4=="q1a" && (Node_0=="q2n" -> Node_4=="qwcheck"))))

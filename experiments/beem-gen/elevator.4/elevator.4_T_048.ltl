@@ -1,0 +1,1 @@
+!((Servis=="r" && []Person_2=="in_elevator") R (((Person_1=="in_elevator" R (Person_1=="in_elevator" U !Person_1=="waiting")) -> <>[]Servis=="r") || (Servis=="r" && []Person_2=="in_elevator")))

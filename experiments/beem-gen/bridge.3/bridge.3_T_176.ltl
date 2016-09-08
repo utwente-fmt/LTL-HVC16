@@ -1,0 +1,1 @@
+!((torch=="one" R (X soldier_4=="right" -> torch=="going")) && []<>X (soldier_5=="go_right" R (torch=="going" <-> torch=="one")))

@@ -1,0 +1,1 @@
+!(false R <>(soldier_2=="go_left" U (<>torch=="one" && (soldier_7=="go_right" U torch=="going"))))

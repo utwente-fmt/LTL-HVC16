@@ -1,0 +1,1 @@
+!(X X !Node_2=="q1n" R (([]Node_0=="wait" R ([]Node_0=="wait" || (!Node_0=="qwcheck" U (!Node_0=="qwcheck" && <>Node_2=="wait")))) U (Node_0=="got_msg" && ([]Node_0=="wait" R ([]Node_0=="wait" || (!Node_0=="qwcheck" U (!Node_0=="qwcheck" && <>Node_2=="wait")))))))

@@ -1,0 +1,1 @@
+!(([]X customer_7=="q_error" <-> (customer_1=="running" R customer_3=="running")) R (<>customer_7=="q_error" || ([]X customer_7=="q_error" <-> (customer_1=="running" R customer_3=="running"))))

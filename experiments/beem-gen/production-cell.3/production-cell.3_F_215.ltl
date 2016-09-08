@@ -1,0 +1,1 @@
+!(<>[]Plate_3=="wait_table" <-> <>(Plate_4=="wait_deposit" && X (Deposit=="loaded" || Plate_5=="wait_belt")))

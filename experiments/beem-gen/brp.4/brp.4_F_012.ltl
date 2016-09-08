@@ -1,0 +1,1 @@
+!(!(<>([]Sender=="send" U Receiver=="new_file") <-> !(<>[]Sender=="ret" <-> (<>Sender=="q_error" U Sender=="q_error"))))

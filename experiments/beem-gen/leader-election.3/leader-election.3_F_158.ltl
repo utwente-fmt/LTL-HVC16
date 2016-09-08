@@ -1,0 +1,1 @@
+!(!((!Node_1=="q2a" U (Node_5=="qw" U (Node_4=="q1n" && Node_5=="qw"))) U ([](<>Node_5=="q2n" -> X Node_5=="wait") && (!Node_1=="q2a" U (Node_5=="qw" U (Node_4=="q1n" && Node_5=="qw"))))))

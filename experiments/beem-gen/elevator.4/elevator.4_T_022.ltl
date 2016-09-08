@@ -1,0 +1,1 @@
+!(<>!(((Person_3=="in_elevator" && <>Elevator=="move_next") -> <>Elevator=="q") U !(Person_0=="waiting" <-> <>Servis=="r")))

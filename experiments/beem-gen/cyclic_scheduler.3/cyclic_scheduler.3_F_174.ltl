@@ -1,0 +1,1 @@
+!(<>(scheduler_4=="started" R scheduler_7=="to_start") R (<>(scheduler_4=="started" R scheduler_7=="to_start") || <>X !([]!scheduler_3=="started" <-> !(scheduler_8=="started" <-> X scheduler_4=="wait"))))

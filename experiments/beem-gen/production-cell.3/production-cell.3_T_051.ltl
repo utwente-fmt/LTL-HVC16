@@ -1,0 +1,1 @@
+!(X <>[](Plate_4=="wait_table" U (Plate_1=="wait_belt" && Plate_4=="wait_table")) U (X Plate_4=="wait_table" && !(Belt=="got_new" -> X Table=="up_full") && X <>[](Plate_4=="wait_table" U (Plate_1=="wait_belt" && Plate_4=="wait_table"))))

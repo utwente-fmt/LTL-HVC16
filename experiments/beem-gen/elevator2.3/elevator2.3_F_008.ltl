@@ -1,0 +1,1 @@
+!(<>(<>controller=="work" R !(cabin=="mov" <-> <>[]cabin=="mov")))

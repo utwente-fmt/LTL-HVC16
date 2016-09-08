@@ -1,0 +1,1 @@
+!(X [](X !(Plate_4=="wait_belt" U ((Robot=="Bpress" R Robot=="wait") U ([]Plate_5=="wait_deposit" && (Robot=="Bpress" R Robot=="wait")))) U []Plate_5=="wait_press"))

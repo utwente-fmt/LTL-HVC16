@@ -1,0 +1,1 @@
+!(<>[]X <>!(X soldier_1=="right" <-> (torch=="going" U (soldier_1=="right" && torch=="going"))))

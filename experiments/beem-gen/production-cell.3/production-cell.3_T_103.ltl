@@ -1,0 +1,1 @@
+!((Plate_5=="wait_belt" R (Plate_5=="wait_belt" || ![](Robot=="wait" U (Plate_5=="wait_press" && Robot=="wait" && (Table=="down_full" -> Plate_0=="wait_belt"))))) U (Belt=="q1" U (Belt=="got_new" && Belt=="q1")))

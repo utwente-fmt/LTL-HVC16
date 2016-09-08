@@ -1,0 +1,1 @@
+!((<>(Sender=="ret" R Sender=="q_error") <-> <>(Consumer=="st_error" <-> Receiver=="frame_reported")) R (Producer=="check" || (<>(Sender=="ret" R Sender=="q_error") <-> <>(Consumer=="st_error" <-> Receiver=="frame_reported"))))

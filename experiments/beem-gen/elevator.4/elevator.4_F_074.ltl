@@ -1,0 +1,1 @@
+!(!(Person_0=="in_elevator" <-> Person_2=="in_elevator") <-> !(![]!Person_2=="waiting" <-> <>!(true U Servis=="r")))

@@ -1,0 +1,1 @@
+!([](<>Consumer=="check" && ((L=="got_msg" R (L=="got_msg" || <>Receiver=="first_safe")) R (Sender=="wait_ack" || (L=="got_msg" R (L=="got_msg" || <>Receiver=="first_safe"))))))

@@ -1,0 +1,1 @@
+!(X Belt=="q1" <-> []((Plate_1=="wait_table" R (Deposit=="loaded" || Plate_1=="wait_table")) R (!([]Press=="done" <-> <>(Plate_1=="wait_table" <-> Robot=="Bdeposit")) || (Plate_1=="wait_table" R (Deposit=="loaded" || Plate_1=="wait_table")))))

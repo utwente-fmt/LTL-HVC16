@@ -1,0 +1,1 @@
+!((X Elevator=="move_next" <-> []<>Elevator=="q") <-> <>(X (Person_0=="waiting" U <>Person_0=="waiting") R Person_1=="waiting"))

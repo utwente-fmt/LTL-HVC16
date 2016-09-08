@@ -1,0 +1,1 @@
+!(<>[]((!Consumer=="get_msg" U Receiver=="ret") U ((Sender=="q_error" -> (Consumer=="get_msg" U Sender=="success")) && (!Consumer=="get_msg" U Receiver=="ret"))))

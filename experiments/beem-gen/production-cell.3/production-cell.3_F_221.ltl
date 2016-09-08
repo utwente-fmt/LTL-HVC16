@@ -1,0 +1,1 @@
+!((Plate_4=="wait_table" && <>![]<>Robot=="Bpress") R (<>Plate_4=="wait_deposit" || <>[]Robot=="Bdeposit"))

@@ -1,0 +1,1 @@
+!([]X (([]<>!Table=="up_full" R Plate_1=="wait_table") <-> (!(Plate_0=="wait_belt" <-> Plate_5=="wait_belt") && X Robot=="Bdeposit")))

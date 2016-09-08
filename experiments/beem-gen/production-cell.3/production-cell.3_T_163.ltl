@@ -1,0 +1,1 @@
+!([](([]Plate_3=="wait_belt" R (<>Belt=="got_new" || []Plate_3=="wait_belt")) -> X !(!Table=="down_full" <-> <>Table=="up_empty")))

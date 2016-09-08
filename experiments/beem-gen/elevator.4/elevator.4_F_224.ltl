@@ -1,0 +1,1 @@
+!(!(X (!Person_2=="waiting" <-> <>(Person_2=="in_elevator" R Person_2=="waiting")) <-> (X Person_2=="in_elevator" && (Servis=="r" U Person_0=="in_elevator"))))

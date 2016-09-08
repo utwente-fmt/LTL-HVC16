@@ -1,0 +1,1 @@
+!(<>([](!customer_0=="running" -> (<>scheduler_1=="to_start" R scheduler_0=="to_start")) R (!customer_0=="running" || [](!customer_0=="running" -> (<>scheduler_1=="to_start" R scheduler_0=="to_start")))) R !customer_12=="running")

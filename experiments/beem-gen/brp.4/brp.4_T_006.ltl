@@ -1,0 +1,1 @@
+!((Receiver=="frame_reported" -> Producer=="check") U ((Receiver=="frame_reported" -> Producer=="check") && ([]Sender=="next_frame" || (<>Sender=="wait_ack" U (<>Sender=="wait_ack" && []!(Sender=="next_frame" <-> []Receiver=="frame_reported"))))))

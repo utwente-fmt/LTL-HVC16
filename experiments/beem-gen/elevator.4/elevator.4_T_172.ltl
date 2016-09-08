@@ -1,0 +1,1 @@
+!([]<>Servis=="r" R !((false R !Elevator=="move_next") <-> X X <>(Elevator=="q" && Person_1=="in_elevator")))

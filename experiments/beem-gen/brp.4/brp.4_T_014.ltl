@@ -1,0 +1,1 @@
+!(Consumer=="st_error" R (([]Receiver=="ret" -> Sender=="next_frame") U (Producer=="start_send" && Sender=="next_frame" && ([]Receiver=="ret" -> Sender=="next_frame") && (L=="got_msg" R (L=="got_msg" || <>Receiver=="frame_received")))))

@@ -1,0 +1,1 @@
+!(<>!(Elevator=="q" <-> X X X []![](<>Elevator=="transporting" U (Elevator=="q" && <>Elevator=="transporting"))))

@@ -1,0 +1,1 @@
+!([]Sender=="wait_ack" R ([]Sender=="wait_ack" || <>(Producer=="check" && ([]((Producer=="wait_result" U (Producer=="wait_result" && Receiver=="new_file")) U []Consumer=="st_error") U (Receiver=="frame_received" && []((Producer=="wait_result" U (Producer=="wait_result" && Receiver=="new_file")) U []Consumer=="st_error"))))))

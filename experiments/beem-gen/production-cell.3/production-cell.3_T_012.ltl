@@ -1,0 +1,1 @@
+!(<>(((Press=="pressing" R Press=="done") R (Plate_5=="wait_press" || (Press=="pressing" R Press=="done"))) R ((Plate_5=="wait_belt" U (Plate_5=="wait_belt" && Robot=="Bdeposit")) || ((Press=="pressing" R Press=="done") R (Plate_5=="wait_press" || (Press=="pressing" R Press=="done"))))))

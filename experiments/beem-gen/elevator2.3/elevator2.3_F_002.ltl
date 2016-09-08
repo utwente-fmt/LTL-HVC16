@@ -1,0 +1,1 @@
+!([]<>([]<>cabin=="open" U ([]<>cabin=="open" && (!cabin=="open" U (cabin=="mov" && !cabin=="open")))))

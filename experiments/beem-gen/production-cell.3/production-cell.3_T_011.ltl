@@ -1,0 +1,1 @@
+!(Deposit=="loaded" R (![]Plate_2=="wait_deposit" U ((![]X <>Plate_2=="wait_deposit" U []Press=="pressing") && ![]Plate_2=="wait_deposit")))

@@ -1,0 +1,1 @@
+!(X []<>(((controller=="done" && controller=="work") R controller=="done") U ([]([]cabin=="mov" -> !cabin=="open") && ((controller=="done" && controller=="work") R controller=="done"))))

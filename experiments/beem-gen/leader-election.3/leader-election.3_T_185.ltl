@@ -1,0 +1,1 @@
+!((X Node_2=="got_msg" <-> ((Node_2=="q1a" || (Node_3=="qwcheck" -> Node_1=="q2")) U ((Node_2=="q1a" || (Node_3=="qwcheck" -> Node_1=="q2")) && X Node_3=="got_msg"))) R (<>Node_5=="q2n" || (X Node_2=="got_msg" <-> ((Node_2=="q1a" || (Node_3=="qwcheck" -> Node_1=="q2")) U ((Node_2=="q1a" || (Node_3=="qwcheck" -> Node_1=="q2")) && X Node_3=="got_msg")))))

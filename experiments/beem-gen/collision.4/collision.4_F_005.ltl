@@ -1,0 +1,1 @@
+!(User2=="got" U <>(<>User4=="wrong_data" R (User3=="got" || !(<>Medium=="got" <-> (X Master=="wait" R Slave3=="enquire")))))

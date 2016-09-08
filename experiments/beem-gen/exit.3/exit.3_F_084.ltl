@@ -1,0 +1,1 @@
+!((Person_1=="Ceska" -> (Person_0=="Svobodak" || Person_1=="Ceska")) R (<>!(Person_0=="Svobodak" <-> []Person_0=="Moravak") R (<>Person_0=="Malinak" || <>!(Person_0=="Svobodak" <-> []Person_0=="Moravak"))))

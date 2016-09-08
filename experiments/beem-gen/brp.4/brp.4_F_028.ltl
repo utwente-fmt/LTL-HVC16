@@ -1,0 +1,1 @@
+!(([]Producer=="start_send" <-> <>Sender=="ret") || [](<>Producer=="start_send" <-> <>X Receiver=="first_safe"))

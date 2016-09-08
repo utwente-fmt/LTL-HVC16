@@ -1,0 +1,1 @@
+!(<>[](X !(Sender=="send" <-> (Receiver=="ret" R Receiver=="new_file")) R (X <>([]L=="got_msg" U (K=="got_msg" && []L=="got_msg")) || X !(Sender=="send" <-> (Receiver=="ret" R Receiver=="new_file")))))

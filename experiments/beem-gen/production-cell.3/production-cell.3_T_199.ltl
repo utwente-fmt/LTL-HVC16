@@ -1,0 +1,1 @@
+!(!(Robot=="Apress" <-> <>(<>(Plate_4=="wait_table" <-> [](Deposit=="loaded" R Table=="down_full")) -> <>!<>Robot=="wait")))

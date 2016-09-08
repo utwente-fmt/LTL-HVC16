@@ -1,0 +1,1 @@
+!(X X (X Node_3=="q1" -> Node_4=="q2a") R (<>!(!Node_1=="q1n" U (Node_3=="q2n" <-> Node_4=="q1n")) || X X (X Node_3=="q1" -> Node_4=="q2a")))

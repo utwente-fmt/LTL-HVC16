@@ -1,0 +1,1 @@
+!((scheduler_1=="wait" R (customer_3=="running" || scheduler_1=="wait")) R <>((customer_1=="q_error" || (false R scheduler_3=="to_start")) R (customer_1=="q_error" || (scheduler_5=="to_start" <-> X customer_9=="running") || (false R scheduler_3=="to_start"))))

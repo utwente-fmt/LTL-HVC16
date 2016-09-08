@@ -1,0 +1,1 @@
+!(<>X Person_0=="in_elevator" <-> <>X <>!<>(Person_1=="waiting" -> (true U !Person_2=="in_elevator")))

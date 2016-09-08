@@ -1,0 +1,1 @@
+!(<>((Receiver=="ret" R Receiver=="first_safe") R <>[]X Sender=="next_frame") R (<>Sender=="success" U (X Consumer=="get_msg" && <>Sender=="success")))

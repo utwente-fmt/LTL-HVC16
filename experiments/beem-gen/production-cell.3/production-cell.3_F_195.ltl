@@ -1,0 +1,1 @@
+!(X <>(Plate_3=="wait_table" && []![]X (Robot=="Bpress" U (Plate_1=="wait_table" && Robot=="Bpress"))) -> Table=="up_empty")

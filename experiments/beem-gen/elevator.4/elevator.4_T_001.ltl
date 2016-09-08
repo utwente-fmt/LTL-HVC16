@@ -1,0 +1,1 @@
+!(!<>[]<>!([]Elevator=="q" <-> (<>Elevator=="q" R (<>Elevator=="q" || (Person_0=="waiting" U (Person_0=="waiting" && ![]Elevator=="transporting"))))))

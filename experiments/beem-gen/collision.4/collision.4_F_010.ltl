@@ -1,0 +1,1 @@
+!(<>[]!(((Slave4=="got" <-> User4=="got") <-> <>User1=="wrong_data") <-> ([]Master=="wait" R (User2=="wrong_data" || []Master=="wait"))))

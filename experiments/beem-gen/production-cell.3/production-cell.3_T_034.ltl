@@ -1,0 +1,1 @@
+!(!(Robot=="Apress" <-> <>((Robot=="Bpress" && X []Table=="down_full") R ([]!(Press=="pressing" || []Plate_3=="wait_table") || (Robot=="Bpress" && X []Table=="down_full")))))

@@ -1,0 +1,1 @@
+!(X ((Receiver=="first_safe" || Receiver=="new_file") <-> X <>(true U []Sender=="ret")))

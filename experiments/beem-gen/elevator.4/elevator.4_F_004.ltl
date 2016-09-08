@@ -1,0 +1,1 @@
+!(X (Person_2=="waiting" <-> <>[](Person_1=="waiting" U ([](Servis=="r" R (Servis=="r" || []Servis=="r")) -> []Person_0=="waiting"))))

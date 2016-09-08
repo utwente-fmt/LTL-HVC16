@@ -1,0 +1,1 @@
+!([]([]Table=="up_full" <-> ([]X <>Deposit=="loaded" && ((Press=="pressing" -> Plate_4=="wait_press") R X Plate_5=="wait_deposit"))))

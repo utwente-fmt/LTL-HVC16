@@ -1,0 +1,1 @@
+!((Slave3=="got" <-> !(Medium=="collision" <-> (false R Slave1=="got"))) U (([]<>User2=="wrong_data" || (User4=="got" U (Medium=="collision" && User4=="got"))) && (Slave3=="got" <-> !(Medium=="collision" <-> (false R Slave1=="got")))))

@@ -1,0 +1,1 @@
+!(<>(X Node_1=="qw" -> Node_4=="q2") R (<>(X Node_1=="qw" -> Node_4=="q2") || <>(X Node_5=="got_msg" U ([]<>Node_4=="q2n" && X Node_5=="got_msg"))))

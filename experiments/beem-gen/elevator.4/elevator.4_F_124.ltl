@@ -1,0 +1,1 @@
+!(!(!X <>Person_0=="in_elevator" <-> <>(false R (Elevator=="q" -> Person_0=="in_elevator"))))

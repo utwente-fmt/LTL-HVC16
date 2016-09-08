@@ -1,0 +1,1 @@
+!(!((torch=="one" U []soldier_6=="go_left") R X soldier_4=="right") U (soldier_6=="go_right" && (X soldier_2=="go_right" U soldier_8=="go_left") && !((torch=="one" U []soldier_6=="go_left") R X soldier_4=="right")))

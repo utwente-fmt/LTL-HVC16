@@ -1,0 +1,1 @@
+!(X controller=="work" && ([](<>[]cabin=="open" R (cabin=="mov" || <>[]cabin=="open")) <-> (cabin=="open" <-> X cabin=="open")))

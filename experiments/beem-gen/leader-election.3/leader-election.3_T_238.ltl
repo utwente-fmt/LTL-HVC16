@@ -1,0 +1,1 @@
+!([]([]X ((Node_0=="got_msg" <-> Node_5=="got_msg") <-> X []Node_3=="q1n") <-> (Node_2=="got_msg" && <>Node_3=="q1")))

@@ -1,0 +1,1 @@
+!((Plate_3=="wait_belt" <-> X Table=="up_full") U ((X Table=="up_empty" <-> []([]Robot=="Apress" <-> X []Press=="done")) && (Plate_3=="wait_belt" <-> X Table=="up_full")))

@@ -1,0 +1,1 @@
+!((X Person_0=="in_elevator" R (<>(Elevator=="move_next" U Person_1=="in_elevator") || X Person_0=="in_elevator")) U (Person_3=="in_elevator" && X Elevator=="move_next" && (X Person_0=="in_elevator" R (<>(Elevator=="move_next" U Person_1=="in_elevator") || X Person_0=="in_elevator"))))

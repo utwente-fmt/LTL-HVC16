@@ -1,0 +1,1 @@
+!(!((Robot=="Bdeposit" -> Table=="up_full") <-> !(Plate_1=="wait_press" <-> [](<>Deposit=="loaded" U (<>Deposit=="loaded" && (X !Press=="done" R (Press=="pressing" || X !Press=="done")))))))

@@ -1,0 +1,1 @@
+!(Plate_5=="wait_press" <-> X [](!Plate_2=="wait_press" -> <>!(Plate_4=="wait_table" || (Belt=="got_new" <-> Plate_4=="wait_table"))))

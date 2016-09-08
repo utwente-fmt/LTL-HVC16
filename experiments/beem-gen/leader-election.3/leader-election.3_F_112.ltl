@@ -1,0 +1,1 @@
+!(X Node_1=="wait" R (X Node_1=="wait" || ([]!(((true U Node_3=="qw") R (Node_0=="qwcheck" || (true U Node_3=="qw"))) R X Node_4=="q2") U (Node_4=="q1n" && []!(((true U Node_3=="qw") R (Node_0=="qwcheck" || (true U Node_3=="qw"))) R X Node_4=="q2")))))

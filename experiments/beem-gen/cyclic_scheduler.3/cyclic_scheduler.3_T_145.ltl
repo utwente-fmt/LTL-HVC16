@@ -1,0 +1,1 @@
+!(X [](scheduler_10=="to_start" -> <>X ((customer_3=="q_error" -> []scheduler_8=="wait") U (scheduler_1=="wait" U <>customer_5=="q_error"))))

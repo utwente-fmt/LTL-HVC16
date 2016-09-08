@@ -1,0 +1,1 @@
+!(<>[](Table=="down_full" R (Table=="down_full" || Table=="up_full")) -> <>(<>Robot=="Bpress" <-> (Plate_1=="wait_deposit" U X []Plate_0=="wait_deposit")))

@@ -1,0 +1,1 @@
+!(scheduler_2=="started" R (scheduler_2=="started" || <>(customer_12=="running" <-> <>customer_1=="q_error")))

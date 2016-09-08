@@ -1,0 +1,1 @@
+!(!(<>Plate_5=="wait_press" <-> []<>Robot=="Apress") U ((<>Plate_5=="wait_press" R (Table=="up_empty" <-> !(Plate_1=="wait_press" <-> Robot=="Bdeposit"))) && !(<>Plate_5=="wait_press" <-> []<>Robot=="Apress")))

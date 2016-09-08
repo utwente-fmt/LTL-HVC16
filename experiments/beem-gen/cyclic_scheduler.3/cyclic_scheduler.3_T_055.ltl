@@ -1,0 +1,1 @@
+!(((scheduler_3=="started" U scheduler_6=="to_start") -> scheduler_0=="started") <-> <>X !([]scheduler_0=="started" <-> <>!<>scheduler_11=="started"))

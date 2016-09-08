@@ -1,0 +1,1 @@
+!([]((IOP=="actv") -> ((IOP=="stand_by") R (!(IOP=="noise") || (IOP=="stand_by")))))

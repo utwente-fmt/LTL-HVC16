@@ -1,0 +1,1 @@
+!(!([]cabin=="mov" <-> (X <>cabin=="open" U (controller=="work" R (cabin=="mov" U (cabin=="mov" && X controller=="done"))))))

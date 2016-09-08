@@ -1,0 +1,1 @@
+!([]<>((Plate_0=="wait_table" || Plate_4=="wait_table") && ([]Press=="pressing" U (X Deposit=="loaded" && []Press=="pressing"))))

@@ -1,0 +1,1 @@
+!((<>Plate_1=="wait_press" <-> []<>(Belt=="got_new" R Plate_4=="wait_table")) R X (Plate_5=="wait_belt" <-> []<>Table=="down_full"))

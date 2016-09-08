@@ -1,0 +1,1 @@
+!(!((Table=="down_full" || <>Plate_0=="wait_press") <-> (<>[]Robot=="Apress" <-> []X X Robot=="Apress")))

@@ -1,0 +1,1 @@
+!(<>((X <>Node_3=="wait" R (!Node_1=="wait" || X <>Node_3=="wait")) <-> [](<>Node_4=="qwcheck" U ((Node_3=="wait" R Node_0=="got_msg") && <>Node_4=="qwcheck"))))

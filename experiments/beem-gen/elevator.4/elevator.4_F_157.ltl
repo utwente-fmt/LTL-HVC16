@@ -1,0 +1,1 @@
+!(!((Person_0=="waiting" <-> Servis=="r") <-> X Person_0=="waiting") R (X <>((Person_3=="waiting" R X Elevator=="move_next") R Person_0=="in_elevator") || !((Person_0=="waiting" <-> Servis=="r") <-> X Person_0=="waiting")))

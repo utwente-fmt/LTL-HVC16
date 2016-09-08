@@ -1,0 +1,1 @@
+!(X Person_1=="in_elevator" || [](!([]Person_0=="in_elevator" && []Person_2=="in_elevator") U (!([]Person_0=="in_elevator" && []Person_2=="in_elevator") && X (false R Person_0=="in_elevator"))))

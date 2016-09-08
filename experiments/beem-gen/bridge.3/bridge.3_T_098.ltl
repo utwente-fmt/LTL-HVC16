@@ -1,0 +1,1 @@
+!(true U (!(soldier_7=="go_right" <-> <>soldier_6=="right") R <>(soldier_4=="go_right" && (soldier_4=="right" U (soldier_3=="right" && soldier_4=="right")))))

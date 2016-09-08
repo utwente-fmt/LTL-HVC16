@@ -1,0 +1,1 @@
+!(<>X <>[]torch=="one" <-> <>!(soldier_1=="go_right" <-> (soldier_7=="right" R !(soldier_1=="right" <-> soldier_5=="go_left"))))

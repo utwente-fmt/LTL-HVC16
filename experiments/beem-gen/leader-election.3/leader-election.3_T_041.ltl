@@ -1,0 +1,1 @@
+!([](Node_4=="wait" || (<>Node_5=="q1a" U (X Node_5=="q2" && <>Node_5=="q1a"))) U ((!<>Node_0=="qwcheck" R (X Node_1=="q2n" || !<>Node_0=="qwcheck")) && [](Node_4=="wait" || (<>Node_5=="q1a" U (X Node_5=="q2" && <>Node_5=="q1a")))))

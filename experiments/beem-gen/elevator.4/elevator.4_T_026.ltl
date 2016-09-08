@@ -1,0 +1,1 @@
+!(!(Person_0=="in_elevator" <-> <>(Person_2=="waiting" R (Elevator=="q" || Person_2=="waiting"))) U (((Person_3=="waiting" || <>X Person_1=="waiting") U ([]Person_0=="in_elevator" && (Person_3=="waiting" || <>X Person_1=="waiting"))) && !(Person_0=="in_elevator" <-> <>(Person_2=="waiting" R (Elevator=="q" || Person_2=="waiting")))))

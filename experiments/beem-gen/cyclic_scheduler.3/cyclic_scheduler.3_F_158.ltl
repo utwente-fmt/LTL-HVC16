@@ -1,0 +1,1 @@
+!(<>(!X scheduler_12=="wait" U ((scheduler_5=="wait" && []scheduler_3=="wait") R ((<>scheduler_9=="started" U scheduler_12=="to_start") || (scheduler_5=="wait" && []scheduler_3=="wait")))))

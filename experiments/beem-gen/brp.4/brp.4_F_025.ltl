@@ -1,0 +1,1 @@
+!(X (Consumer=="get_msg" || (true U Receiver=="new_file")) U (X (Consumer=="get_msg" || (true U Receiver=="new_file")) && ([]Consumer=="get_msg" R ([]Consumer=="get_msg" || []<>(Producer=="wait_result" U (Producer=="wait_result" && Sender=="ret"))))))

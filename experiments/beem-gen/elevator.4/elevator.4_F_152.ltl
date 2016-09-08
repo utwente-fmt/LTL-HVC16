@@ -1,0 +1,1 @@
+!(X (<>Person_2=="in_elevator" <-> ([]Person_0=="waiting" U <>[]Person_1=="waiting")) R (<>Person_2=="in_elevator" U Person_0=="in_elevator"))

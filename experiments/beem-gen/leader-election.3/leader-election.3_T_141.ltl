@@ -1,0 +1,1 @@
+!((Node_3=="q1a" R (Node_3=="q1a" || X Node_1=="q2")) R (<>([]Node_2=="got_msg" || (Node_1=="q2n" R (Node_1=="q2n" || Node_1=="qw"))) U X Node_4=="qwcheck"))

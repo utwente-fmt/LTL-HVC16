@@ -1,0 +1,1 @@
+!(torch=="two" <-> (<>soldier_6=="go_left" -> ((true U []torch=="one") -> !(<>soldier_2=="go_right" U (soldier_1=="right" && <>soldier_2=="go_right")))))

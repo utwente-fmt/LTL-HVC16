@@ -1,0 +1,1 @@
+!(<>[]Node_0=="qwcheck" U (X Node_1=="q1a" <-> (X (Node_5=="qw" && <>Node_1=="qw") R <>Node_0=="wait")))

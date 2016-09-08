@@ -1,0 +1,1 @@
+!((Sender=="send" && X (false R []<>[]K=="got_msg")) R <>Producer=="start_send")

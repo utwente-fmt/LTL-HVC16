@@ -1,0 +1,1 @@
+!((Plate_5=="wait_belt" R (Plate_5=="wait_belt" || <>Plate_1=="wait_belt")) U (X (!Plate_3=="wait_table" U [](Belt=="got_new" -> (Table=="up_full" R Plate_3=="wait_belt"))) && (Plate_5=="wait_belt" R (Plate_5=="wait_belt" || <>Plate_1=="wait_belt"))))

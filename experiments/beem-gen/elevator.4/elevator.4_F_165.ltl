@@ -1,0 +1,1 @@
+!(<>([]Elevator=="move_next" <-> <>Servis=="r") R ![]!(Servis=="r" <-> <>Elevator=="move_next"))

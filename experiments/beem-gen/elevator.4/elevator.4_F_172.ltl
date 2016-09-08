@@ -1,0 +1,1 @@
+!([]!((!Elevator=="move_next" || (Elevator=="transporting" -> Person_0=="waiting")) <-> (Person_3=="waiting" && (Elevator=="transporting" <-> <>[]Person_2=="in_elevator"))))

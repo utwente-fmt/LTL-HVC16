@@ -1,0 +1,1 @@
+!(<>([]X L=="got_msg" U ([]X L=="got_msg" && (Sender=="ret" U (Sender=="ret" && (X Consumer=="get_msg" R (<>K=="got_msg" || X Consumer=="get_msg")))))))

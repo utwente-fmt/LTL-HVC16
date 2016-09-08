@@ -1,0 +1,1 @@
+!(!(X Robot=="wait" <-> [](<>Robot=="Apress" U (<>Robot=="Apress" && (<>Robot=="Apress" R X !X Robot=="Bpress")))))

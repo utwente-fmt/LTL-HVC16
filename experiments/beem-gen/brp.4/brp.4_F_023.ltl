@@ -1,0 +1,1 @@
+!(X ((Sender=="ret" && Sender=="success") R (X <>(X Receiver=="new_file" <-> <>[]Receiver=="frame_received") U Sender=="success")))

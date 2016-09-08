@@ -1,0 +1,1 @@
+!((!User4=="got" && (Slave1=="got" -> Slave3=="enquire")) U (!User4=="got" && (Slave1=="got" -> Slave3=="enquire") && ([]<>Medium=="collision" R !User3=="got")))

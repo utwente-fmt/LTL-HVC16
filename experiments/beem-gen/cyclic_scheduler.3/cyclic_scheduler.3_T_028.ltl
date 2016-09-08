@@ -1,0 +1,1 @@
+!(!((![]scheduler_3=="started" U (X customer_0=="q_error" && ![]scheduler_3=="started")) <-> []([]customer_10=="running" R ([]customer_10=="running" || !(scheduler_3=="to_start" <-> <>scheduler_5=="to_start")))))

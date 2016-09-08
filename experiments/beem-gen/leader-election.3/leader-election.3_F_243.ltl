@@ -1,0 +1,1 @@
+!(X ((<>Node_0=="q1n" U (Node_5=="q1a" && <>Node_0=="q1n")) R ((<>(Node_4=="q1" && !(Node_1=="q1n" <-> Node_3=="qwcheck")) R (!Node_4=="q1" || <>(Node_4=="q1" && !(Node_1=="q1n" <-> Node_3=="qwcheck")))) || (<>Node_0=="q1n" U (Node_5=="q1a" && <>Node_0=="q1n")))))

@@ -1,0 +1,1 @@
+!((<>X Elevator=="transporting" <-> []<>[](Person_1=="in_elevator" && Person_3=="waiting")) U (<>Person_2=="in_elevator" && (<>X Elevator=="transporting" <-> []<>[](Person_1=="in_elevator" && Person_3=="waiting"))))

@@ -1,0 +1,1 @@
+!(!<>[]<>!([]Robot=="Bpress" <-> (<>Press=="done" R (<>Press=="done" || (Plate_0=="wait_belt" U (Plate_0=="wait_belt" && ![]Robot=="Apress"))))))

@@ -1,0 +1,1 @@
+!([]((<>(Node_3=="q2" && Node_5=="q2") <-> <>X Node_3=="qwcheck") <-> ((Node_4=="q2" R Node_4=="q1") -> Node_3=="q1n")))

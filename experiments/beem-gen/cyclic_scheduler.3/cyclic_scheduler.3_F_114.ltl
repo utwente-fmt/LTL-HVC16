@@ -1,0 +1,1 @@
+!(<>scheduler_6=="started" R (<>X ((true U X customer_6=="q_error") U (!customer_8=="running" <-> scheduler_4=="to_start")) || <>scheduler_6=="started"))

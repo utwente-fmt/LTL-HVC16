@@ -1,0 +1,1 @@
+!(Person_3=="in_elevator" R ((!Elevator=="q" && <>Person_0=="waiting") R <>(Elevator=="move_next" U (Elevator=="move_next" && Person_0=="in_elevator"))))

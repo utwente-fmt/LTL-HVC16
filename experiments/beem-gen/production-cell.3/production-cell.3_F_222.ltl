@@ -1,0 +1,1 @@
+!(!(<>(Plate_4=="wait_belt" R (Robot=="wait" U Plate_1=="wait_belt")) <-> (<>[]X X Plate_3=="wait_belt" R ([]Plate_5=="wait_table" || <>[]X X Plate_3=="wait_belt"))))

@@ -1,0 +1,1 @@
+!((L=="got_msg" || !Producer=="wait_result") <-> (<>(Sender=="ret" U (Sender=="ret" && Sender=="wait_ack")) U ((Sender=="send" R (Consumer=="check" || Sender=="send")) && <>(Sender=="ret" U (Sender=="ret" && Sender=="wait_ack")))))

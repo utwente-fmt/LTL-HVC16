@@ -1,0 +1,1 @@
+!(<>customer_4=="q_error" && (!X scheduler_8=="to_start" R <>scheduler_0=="wait") && !(scheduler_5=="to_start" U (scheduler_3=="wait" && scheduler_5=="to_start")))

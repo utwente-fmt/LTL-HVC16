@@ -1,0 +1,1 @@
+!(![](<>!(Person_0=="waiting" <-> (true U Elevator=="move_next")) <-> (Elevator=="move_next" R (Elevator=="move_next" || ![]Elevator=="move_next"))))

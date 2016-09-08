@@ -1,0 +1,1 @@
+!(!([]controller=="work" <-> (([]<>controller=="work" U ((cabin=="mov" R cabin=="open") && []<>controller=="work")) U cabin=="open")))

@@ -1,0 +1,1 @@
+!(Person_3=="in_elevator" <-> ((<>Person_3=="in_elevator" && [](<>Elevator=="move_next" U (!Person_3=="in_elevator" && <>Elevator=="move_next"))) U ([]Elevator=="q" && <>Person_3=="in_elevator" && [](<>Elevator=="move_next" U (!Person_3=="in_elevator" && <>Elevator=="move_next")))))

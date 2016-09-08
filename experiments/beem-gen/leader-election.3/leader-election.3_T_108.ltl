@@ -1,0 +1,1 @@
+!([]((Node_1=="qwcheck" -> Node_3=="q1n") <-> !(((Node_5=="q2a" R (Node_2=="qw" || Node_5=="q2a")) U (Node_3=="got_msg" && (Node_5=="q2a" R (Node_2=="qw" || Node_5=="q2a")))) R (X []Node_3=="wait" || ((Node_5=="q2a" R (Node_2=="qw" || Node_5=="q2a")) U (Node_3=="got_msg" && (Node_5=="q2a" R (Node_2=="qw" || Node_5=="q2a"))))))))

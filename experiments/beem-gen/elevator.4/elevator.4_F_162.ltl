@@ -1,0 +1,1 @@
+!(X !((Person_2=="waiting" R Person_0=="waiting") <-> []!X []Person_0=="waiting"))

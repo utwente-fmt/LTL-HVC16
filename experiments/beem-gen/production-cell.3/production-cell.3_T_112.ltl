@@ -1,0 +1,1 @@
+!([]((<>(Press=="done" || <>Robot=="Apress") U []Robot=="Bpress") U (X Belt=="got_new" && []Plate_0=="wait_table" && (<>(Press=="done" || <>Robot=="Apress") U []Robot=="Bpress"))))

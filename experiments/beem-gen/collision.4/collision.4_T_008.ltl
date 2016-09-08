@@ -1,0 +1,1 @@
+!([]!(User2=="wrong_data" <-> (<>User3=="wrong_data" <-> ((User1=="got" -> User3=="wrong_data") || <>User1=="got"))))

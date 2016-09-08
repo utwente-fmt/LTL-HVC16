@@ -1,0 +1,1 @@
+!(X X <>Node_0=="q1a" R (X X <>Node_0=="q1a" || (Node_2=="q1" -> (<>Node_1=="qwcheck" U (<>Node_1=="qwcheck" && !([]Node_4=="qw" <-> X Node_0=="q2n"))))))

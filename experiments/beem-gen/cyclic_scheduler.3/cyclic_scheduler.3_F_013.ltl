@@ -1,0 +1,1 @@
+!([]<>X customer_11=="q_error" R ([]<>((scheduler_8=="to_start" || X scheduler_5=="started") R !X scheduler_11=="to_start") || []<>X customer_11=="q_error"))

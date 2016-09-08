@@ -1,0 +1,1 @@
+!([]cabin=="mov" R []([]controller=="done" U (controller=="work" R (!cabin=="open" || controller=="work"))))

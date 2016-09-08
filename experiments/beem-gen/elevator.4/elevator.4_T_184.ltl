@@ -1,0 +1,1 @@
+!(((Person_0=="in_elevator" <-> !Person_3=="waiting") -> Person_1=="in_elevator") R <>(Person_2=="in_elevator" U ([]Person_2=="waiting" && <>Person_1=="waiting")))

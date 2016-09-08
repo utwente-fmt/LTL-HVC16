@@ -1,0 +1,1 @@
+!(!((Plate_1=="wait_belt" <-> Plate_3=="wait_press") <-> []<>(Press=="pressing" U (Press=="pressing" && !(Robot=="wait" U (Robot=="wait" && (Plate_4=="wait_press" <-> Press=="done")))))))

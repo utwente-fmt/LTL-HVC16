@@ -1,0 +1,1 @@
+!(Node_3=="q2" R <>((Node_2=="got_msg" R Node_1=="qw") R ((Node_3=="got_msg" U (Node_3=="got_msg" && (Node_1=="q2a" <-> Node_5=="q2"))) R (<>Node_4=="q1" || (Node_3=="got_msg" U (Node_3=="got_msg" && (Node_1=="q2a" <-> Node_5=="q2")))))))

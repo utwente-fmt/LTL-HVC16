@@ -1,0 +1,1 @@
+!(!(!(customer_5=="running" <-> scheduler_12=="to_start") <-> (<>[]customer_2=="running" R (<>[]customer_2=="running" || ((scheduler_7=="started" -> []customer_9=="running") R (scheduler_12=="started" || (scheduler_7=="started" -> []customer_9=="running")))))))

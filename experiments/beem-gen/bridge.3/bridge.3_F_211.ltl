@@ -1,0 +1,1 @@
+!(X !(soldier_7=="go_right" <-> ((<>[]torch=="one" R (<>[]torch=="one" || (torch=="going" R (!soldier_6=="go_left" || torch=="going")))) U ((soldier_4=="go_left" U (soldier_4=="go_left" && soldier_6=="go_left")) && (<>[]torch=="one" R (<>[]torch=="one" || (torch=="going" R (!soldier_6=="go_left" || torch=="going"))))))))

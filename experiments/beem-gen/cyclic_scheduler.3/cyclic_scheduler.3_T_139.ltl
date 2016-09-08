@@ -1,0 +1,1 @@
+!(([](scheduler_8=="wait" U customer_11=="q_error") U !customer_7=="q_error") U (([]([]scheduler_8=="wait" R customer_0=="running") R scheduler_6=="wait") && ([](scheduler_8=="wait" U customer_11=="q_error") U !customer_7=="q_error")))

@@ -1,0 +1,1 @@
+!(!Plate_5=="wait_deposit" <-> ((Plate_0=="wait_table" R (Plate_0=="wait_table" || <>Plate_0=="wait_press")) U []Press=="pressing"))

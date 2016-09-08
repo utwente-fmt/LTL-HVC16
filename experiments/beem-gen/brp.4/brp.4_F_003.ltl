@@ -1,0 +1,1 @@
+!((<>Receiver=="first_safe" R ![](Consumer=="check" <-> Producer=="wait_result")) R ((<>Receiver=="first_safe" R ![](Consumer=="check" <-> Producer=="wait_result")) || <>((Receiver=="ret" R Receiver=="frame_reported") R (Receiver=="first_safe" || (Receiver=="ret" R Receiver=="frame_reported")))))

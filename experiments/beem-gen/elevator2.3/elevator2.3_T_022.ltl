@@ -1,0 +1,1 @@
+!(true U (false R (!controller=="work" U (controller=="done" && !controller=="work"))))

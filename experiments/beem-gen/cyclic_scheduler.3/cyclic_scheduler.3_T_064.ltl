@@ -1,0 +1,1 @@
+!([]X (!(customer_5=="q_error" && customer_9=="q_error") -> <>(customer_10=="running" U X (customer_4=="q_error" && customer_11=="running"))))

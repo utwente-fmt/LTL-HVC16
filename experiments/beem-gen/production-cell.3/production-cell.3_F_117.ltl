@@ -1,0 +1,1 @@
+!(!((Table=="up_empty" && X Plate_4=="wait_belt") <-> (<>[]Plate_3=="wait_press" <-> (X <>Belt=="q1" U (X Plate_1=="wait_belt" && X <>Belt=="q1")))))

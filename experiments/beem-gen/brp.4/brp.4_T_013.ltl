@@ -1,0 +1,1 @@
+!((<>L=="got_msg" R (<>L=="got_msg" || ((Producer=="wait_result" || Receiver=="ret") <-> (Producer=="wait_result" U (Producer=="wait_result" && Sender=="q_error"))))) U ([]Sender=="send" && (<>L=="got_msg" R (<>L=="got_msg" || ((Producer=="wait_result" || Receiver=="ret") <-> (Producer=="wait_result" U (Producer=="wait_result" && Sender=="q_error")))))))

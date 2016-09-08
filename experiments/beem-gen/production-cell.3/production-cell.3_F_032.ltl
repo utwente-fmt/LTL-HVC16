@@ -1,0 +1,1 @@
+!(X ([]<>(Belt=="q1" <-> []<>Plate_4=="wait_press") <-> (([]Plate_0=="wait_belt" U Plate_4=="wait_table") R (Plate_4=="wait_belt" || ([]Plate_0=="wait_belt" U Plate_4=="wait_table")))))

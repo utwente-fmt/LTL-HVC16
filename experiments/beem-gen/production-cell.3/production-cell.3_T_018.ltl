@@ -1,0 +1,1 @@
+!(<>((Deposit=="loaded" U !<>Robot=="Bdeposit") R !(Plate_1=="wait_belt" <-> []((Plate_3=="wait_table" R Table=="up_full") U (Table=="down_full" && (Plate_3=="wait_table" R Table=="up_full"))))))

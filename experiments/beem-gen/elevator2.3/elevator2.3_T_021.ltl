@@ -1,0 +1,1 @@
+!(!(cabin=="mov" <-> <>((cabin=="mov" <-> cabin=="open") U ((cabin=="mov" <-> cabin=="open") && ([]controller=="work" U (X []<>cabin=="mov" && []controller=="work"))))))

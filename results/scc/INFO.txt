@@ -1,0 +1,9 @@
+This folder contains SCC characteristics for the models
+(with and without LTL) used in the experiments. 
+These results were computed using a single-threaded SCC 
+search that tracks and reports the number of states in 
+each SCC.
+
+The obtained SCC information has been analyzed and e.g.
+the largest SCC sizes have been extracted, as well as 
+some related characteristics.

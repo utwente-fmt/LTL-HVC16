@@ -1,0 +1,1 @@
+!(<>[](([]Producer=="start_send" -> (L=="got_msg" && !X Sender=="success")) <-> []!(K=="got_msg" <-> Sender=="next_frame")))

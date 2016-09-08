@@ -1,0 +1,1 @@
+!(<>(Belt=="q1" U <>Plate_5=="wait_deposit") <-> <>(false R X Plate_1=="wait_deposit"))

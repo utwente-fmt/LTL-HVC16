@@ -1,0 +1,1 @@
+!((<>(K=="got_msg" U []Sender=="wait_ack") R (Sender=="send" || <>(K=="got_msg" U []Sender=="wait_ack"))) R (<>([]Producer=="start_send" && <>Receiver=="frame_reported") || (<>(K=="got_msg" U []Sender=="wait_ack") R (Sender=="send" || <>(K=="got_msg" U []Sender=="wait_ack")))))

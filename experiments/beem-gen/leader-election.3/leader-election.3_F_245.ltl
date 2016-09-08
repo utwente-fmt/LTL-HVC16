@@ -1,0 +1,1 @@
+!([]((Node_1=="qw" -> Node_4=="q2a") U Node_1=="qwcheck") U (Node_0=="q2a" R (([]Node_3=="wait" -> Node_1=="q2n") R (Node_1=="wait" || ([]Node_3=="wait" -> Node_1=="q2n")))))

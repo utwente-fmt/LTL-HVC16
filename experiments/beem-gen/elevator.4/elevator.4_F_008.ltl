@@ -1,0 +1,1 @@
+!((X Person_0=="waiting" || []Person_1=="waiting") <-> (<>Person_2=="in_elevator" U ([]Elevator=="move_next" R (Person_0=="waiting" || []Elevator=="move_next"))))

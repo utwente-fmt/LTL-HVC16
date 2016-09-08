@@ -1,0 +1,1 @@
+!(<>(Servis=="r" && <>Person_0=="waiting") <-> <>X (false R !X Elevator=="q"))

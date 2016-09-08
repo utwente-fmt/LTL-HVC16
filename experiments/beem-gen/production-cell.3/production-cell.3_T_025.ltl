@@ -1,0 +1,1 @@
+!([](<>Plate_1=="wait_belt" || ([]Plate_2=="wait_press" R ([]Plate_4=="wait_deposit" || []Plate_2=="wait_press"))) U []!(Plate_1=="wait_table" <-> X Plate_3=="wait_deposit"))

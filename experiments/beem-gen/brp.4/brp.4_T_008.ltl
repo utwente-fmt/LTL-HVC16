@@ -1,0 +1,1 @@
+!(!Receiver=="new_file" <-> !(Sender=="next_frame" <-> ([]!(Sender=="next_frame" U Producer=="start_send") R (<>Producer=="wait_result" || []!(Sender=="next_frame" U Producer=="start_send")))))

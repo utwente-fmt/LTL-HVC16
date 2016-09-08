@@ -1,0 +1,1 @@
+!(<>(!Consumer=="check" U (!Consumer=="check" && X []((K=="got_msg" R (K=="got_msg" || (!Sender=="send" -> Receiver=="ret"))) U (Receiver=="ret" && (K=="got_msg" R (K=="got_msg" || (!Sender=="send" -> Receiver=="ret"))))))))

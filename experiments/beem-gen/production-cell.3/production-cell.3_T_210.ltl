@@ -1,0 +1,1 @@
+!(Plate_0=="wait_belt" R X <>(<>(Plate_1=="wait_table" || Press=="done") R ((Plate_0=="wait_belt" && Plate_3=="wait_belt") R (Belt=="q2" || (Plate_0=="wait_belt" && Plate_3=="wait_belt")))))

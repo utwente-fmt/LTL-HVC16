@@ -1,0 +1,1 @@
+!(!([]<>Plate_4=="wait_belt" <-> (Plate_3=="wait_table" U <>(Table=="up_full" -> !Plate_1=="wait_press"))) U ([]X Deposit=="loaded" && !([]<>Plate_4=="wait_belt" <-> (Plate_3=="wait_table" U <>(Table=="up_full" -> !Plate_1=="wait_press")))))

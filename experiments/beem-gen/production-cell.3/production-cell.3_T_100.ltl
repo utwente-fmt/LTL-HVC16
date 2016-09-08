@@ -1,0 +1,1 @@
+!(<>!(((Plate_5=="wait_press" && <>Table=="up_empty") -> <>Deposit=="loaded") U !(Plate_0=="wait_belt" <-> <>Belt=="q1")))

@@ -1,0 +1,1 @@
+!([]X (<>customer_0=="running" R (<>customer_0=="running" || (X scheduler_1=="started" U (X scheduler_1=="started" && !([]<>scheduler_9=="started" <-> <>!scheduler_8=="started"))))))

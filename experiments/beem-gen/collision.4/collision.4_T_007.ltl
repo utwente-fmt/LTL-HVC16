@@ -1,0 +1,1 @@
+!((Medium=="broadcast" R <>Medium=="collision") && (([](Slave1=="got" <-> []User3=="wrong_data") R (Slave1=="enquire" || [](Slave1=="got" <-> []User3=="wrong_data"))) -> !Slave1=="enquire"))

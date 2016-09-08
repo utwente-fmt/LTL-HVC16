@@ -1,0 +1,1 @@
+!(((X customer_7=="q_error" R customer_5=="running") R <>X scheduler_7=="to_start") U []X (scheduler_1=="started" U X scheduler_12=="started"))

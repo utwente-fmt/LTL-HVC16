@@ -1,0 +1,1 @@
+!(!([]!(X Person_0=="waiting" <-> !(Person_3=="in_elevator" U (Person_3=="in_elevator" && [](Person_2=="in_elevator" -> Person_0=="in_elevator")))) R (<>Elevator=="q" || []!(X Person_0=="waiting" <-> !(Person_3=="in_elevator" U (Person_3=="in_elevator" && [](Person_2=="in_elevator" -> Person_0=="in_elevator")))))))

@@ -1,0 +1,1 @@
+!(X (X soldier_7=="go_right" -> <>soldier_6=="go_right") <-> (<>soldier_5=="go_left" U ([]soldier_8=="go_right" && <>soldier_5=="go_left")))

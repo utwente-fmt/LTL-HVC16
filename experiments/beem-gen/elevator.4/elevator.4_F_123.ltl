@@ -1,0 +1,1 @@
+!(X Person_1=="waiting" <-> []<>!(Servis=="r" <-> [](Person_2=="waiting" <-> !Person_3=="waiting")))

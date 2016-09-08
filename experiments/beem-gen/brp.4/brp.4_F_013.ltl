@@ -1,0 +1,1 @@
+!([]<>X (X <>(X (Producer=="wait_result" -> Receiver=="first_safe") U X X Sender=="success") U Consumer=="check"))

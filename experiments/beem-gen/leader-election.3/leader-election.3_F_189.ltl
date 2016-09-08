@@ -1,0 +1,1 @@
+!(((Node_3=="q2a" <-> Node_5=="got_msg") -> ![]<>Node_1=="q1") R (((Node_3=="q2a" <-> Node_5=="got_msg") -> ![]<>Node_1=="q1") || (Node_1=="qwcheck" R (Node_1=="qwcheck" || <>X <>Node_3=="q2n"))))

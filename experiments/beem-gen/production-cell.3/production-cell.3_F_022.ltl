@@ -1,0 +1,1 @@
+!((<>Belt=="q2" U X Plate_1=="wait_press") && (<>Plate_3=="wait_table" <-> <>!([]Plate_5=="wait_deposit" -> Robot=="wait")))

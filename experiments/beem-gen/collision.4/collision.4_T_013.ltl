@@ -1,0 +1,1 @@
+!(<>User1=="wrong_data" || []((!Slave2=="got" <-> User3=="wrong_data") || (!Slave1=="got" && (Slave2=="enquire" U Slave3=="enquire"))))

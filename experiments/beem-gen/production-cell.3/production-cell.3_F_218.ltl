@@ -1,0 +1,1 @@
+!(X (<>Plate_5=="wait_press" <-> X !(Plate_3=="wait_press" U X []<>Robot=="Bdeposit")))

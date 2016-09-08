@@ -1,0 +1,1 @@
+!(!(!User4=="got" <-> (!<>User2=="wrong_data" || <>([]Slave4=="got" || <>User2=="got"))))

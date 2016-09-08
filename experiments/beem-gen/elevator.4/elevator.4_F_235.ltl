@@ -1,0 +1,1 @@
+!((false R Elevator=="q") R X (<>(Person_0=="in_elevator" U (Person_0=="in_elevator" && []Person_0=="waiting")) U (X Elevator=="q" -> Person_1=="waiting")))

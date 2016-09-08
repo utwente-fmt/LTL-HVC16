@@ -1,0 +1,1 @@
+!([]X []![]Robot=="wait" <-> <>(![]Plate_1=="wait_table" && (Plate_2=="wait_belt" R Plate_5=="wait_belt")))

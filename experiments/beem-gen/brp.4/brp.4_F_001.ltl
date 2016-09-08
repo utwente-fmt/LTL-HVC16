@@ -1,0 +1,1 @@
+!(<>[](Sender=="q_error" R !(K=="got_msg" <-> ((L=="got_msg" U X Consumer=="get_msg") R Sender=="q_error"))) U []Receiver=="new_file")

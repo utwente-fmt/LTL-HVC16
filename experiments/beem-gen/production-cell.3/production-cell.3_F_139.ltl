@@ -1,0 +1,1 @@
+!((<>Plate_5=="wait_press" || !(Table=="down_full" <-> []Belt=="got_new")) R ((<>Plate_0=="wait_press" U (Robot=="Bpress" R Robot=="wait")) || <>Plate_5=="wait_press" || !(Table=="down_full" <-> []Belt=="got_new")))

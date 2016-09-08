@@ -1,0 +1,1 @@
+!([]<>Receiver=="new_file" U X [](!Sender=="wait_ack" && (L=="got_msg" R Receiver=="frame_reported")))

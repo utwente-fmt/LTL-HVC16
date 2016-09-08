@@ -1,0 +1,1 @@
+!(X ([]((false R (Plate_5=="wait_deposit" R (Plate_5=="wait_deposit" || Table=="up_full"))) -> Table=="up_full") U ([]X Plate_3=="wait_belt" && []((false R (Plate_5=="wait_deposit" R (Plate_5=="wait_deposit" || Table=="up_full"))) -> Table=="up_full"))))

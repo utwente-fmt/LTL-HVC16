@@ -1,0 +1,1 @@
+!((!(Node_2=="q1a" <-> Node_3=="q2") R (!(Node_2=="q1a" <-> Node_3=="q2") || (<>Node_0=="q1" U (<>Node_0=="q1" && (Node_0=="q1" U (Node_0=="q1" && Node_3=="qw")))))) U !(Node_3=="q1" <-> <>Node_3=="q2"))

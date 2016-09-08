@@ -1,0 +1,1 @@
+!(!(Person_1=="Spilberk" <-> (<>Person_1=="Ceska" U []X Person_0=="Svobodak")) U (Person_0=="Svobodak" && !(Person_1=="Spilberk" <-> (<>Person_1=="Ceska" U []X Person_0=="Svobodak"))))

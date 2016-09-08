@@ -1,0 +1,1 @@
+!((X customer_4=="q_error" U X !scheduler_3=="to_start") R ((X customer_4=="q_error" U X !scheduler_3=="to_start") || <>(customer_12=="q_error" U (customer_12=="q_error" && X !(customer_3=="running" <-> !scheduler_4=="to_start")))))

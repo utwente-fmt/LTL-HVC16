@@ -1,0 +1,1 @@
+!([]((IOP=="stand_by") -> (((IOP=="back_to_actv") || (IOP=="now_wait")) R (!(IOP=="actv") || (IOP=="back_to_actv") || (IOP=="now_wait")))))

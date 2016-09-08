@@ -1,0 +1,1 @@
+!(<>[](Elevator=="transporting" <-> []Elevator=="move_next") R (Elevator=="transporting" || !<>X Person_0=="waiting" || <>[](Elevator=="transporting" <-> []Elevator=="move_next")))

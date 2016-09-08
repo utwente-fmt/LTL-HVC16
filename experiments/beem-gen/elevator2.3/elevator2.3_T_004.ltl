@@ -1,0 +1,1 @@
+!((cabin=="mov" && !controller=="work") R ((cabin=="mov" && !controller=="work") || []<>(cabin=="mov" && controller=="done")))

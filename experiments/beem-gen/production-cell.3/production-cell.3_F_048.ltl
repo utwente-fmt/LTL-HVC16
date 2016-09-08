@@ -1,0 +1,1 @@
+!([]((!Deposit=="loaded" <-> (!Plate_2=="wait_deposit" R (!Plate_2=="wait_deposit" || (Belt=="got_new" R (Plate_4=="wait_table" R (Plate_4=="wait_table" || <>Robot=="Bdeposit")))))) U Table=="up_empty"))

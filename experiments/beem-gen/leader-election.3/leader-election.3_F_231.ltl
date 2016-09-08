@@ -1,0 +1,1 @@
+!(([]Node_3=="q1n" R <>(!Node_2=="wait" R Node_0=="got_msg")) U X (Node_3=="got_msg" R (Node_4=="qw" -> Node_2=="q1a")))

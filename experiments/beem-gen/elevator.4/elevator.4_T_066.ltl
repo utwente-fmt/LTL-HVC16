@@ -1,0 +1,1 @@
+!([](((<>Servis=="r" U (Person_3=="waiting" && <>Servis=="r")) U ([]X []Person_1=="waiting" && (<>Servis=="r" U (Person_3=="waiting" && <>Servis=="r")))) R (([]Servis=="r" R Person_1=="waiting") || ((<>Servis=="r" U (Person_3=="waiting" && <>Servis=="r")) U ([]X []Person_1=="waiting" && (<>Servis=="r" U (Person_3=="waiting" && <>Servis=="r")))))))

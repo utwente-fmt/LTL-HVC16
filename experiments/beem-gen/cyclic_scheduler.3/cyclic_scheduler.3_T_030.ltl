@@ -1,0 +1,1 @@
+!(<>!<>(((scheduler_7=="to_start" U []customer_10=="running") -> customer_2=="running") -> (scheduler_1=="wait" && scheduler_11=="started")) U (scheduler_3=="wait" && <>!<>(((scheduler_7=="to_start" U []customer_10=="running") -> customer_2=="running") -> (scheduler_1=="wait" && scheduler_11=="started"))))

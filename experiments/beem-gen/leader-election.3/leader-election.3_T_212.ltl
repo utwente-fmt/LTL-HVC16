@@ -1,0 +1,1 @@
+!((Node_4=="q2a" -> (Node_4=="got_msg" R <>Node_0=="wait")) <-> (Node_2=="qwcheck" R ([]Node_3=="got_msg" <-> []<>Node_5=="wait")))

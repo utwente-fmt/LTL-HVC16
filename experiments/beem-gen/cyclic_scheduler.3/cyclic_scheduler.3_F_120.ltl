@@ -1,0 +1,1 @@
+!(X <>customer_10=="q_error" <-> <>!((customer_6=="running" R scheduler_8=="started") <-> (!(customer_11=="q_error" <-> X customer_5=="running") R scheduler_4=="started")))

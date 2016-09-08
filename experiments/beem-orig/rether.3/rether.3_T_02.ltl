@@ -1,0 +1,1 @@
+!(![]((Node_0=="reserved") -> (!(Token=="cycle_end") U ((Token=="cycle_end") U (!(Token=="cycle_end") && ((Node_0=="RT_action") R !(Token=="cycle_end")))))))

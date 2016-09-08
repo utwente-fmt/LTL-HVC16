@@ -1,0 +1,1 @@
+!([]!<>(X X Person_1=="in_elevator" U ([](([]<>Elevator=="q" -> Person_1=="in_elevator") -> Person_2=="waiting") && X X Person_1=="in_elevator")))

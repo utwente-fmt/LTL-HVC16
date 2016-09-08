@@ -1,0 +1,1 @@
+!([]<>Servis=="r" <-> ((Person_2=="in_elevator" <-> Servis=="r") U Person_3=="waiting"))

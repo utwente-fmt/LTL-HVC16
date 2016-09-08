@@ -1,0 +1,1 @@
+!([](<>!<>Node_4=="q2a" U (<>!<>Node_4=="q2a" && ((!Node_5=="got_msg" <-> (Node_2=="q1n" U Node_4=="got_msg")) R (<>Node_2=="got_msg" || (!Node_5=="got_msg" <-> (Node_2=="q1n" U Node_4=="got_msg")))))))

@@ -1,0 +1,1 @@
+!(([]X Node_1=="q1n" R (Node_2=="q1" || []X Node_1=="q1n")) R (!Node_2=="wait" || (<>X Node_3=="q1" R <>Node_4=="q1")))

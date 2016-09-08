@@ -1,0 +1,1 @@
+!([]<>((Node_1=="q1a" || X Node_2=="q1a") <-> !(!Node_2=="q2a" <-> (!(Node_1=="q1a" <-> Node_2=="got_msg") U Node_1=="q2a"))))

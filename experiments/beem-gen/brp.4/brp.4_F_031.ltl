@@ -1,0 +1,1 @@
+!(<>[]<>!(Sender=="next_frame" <-> ([]<>[](Sender=="q_error" R (Sender=="q_error" || Sender=="success")) R ((Consumer=="check" <-> Sender=="send") || []<>[](Sender=="q_error" R (Sender=="q_error" || Sender=="success"))))))

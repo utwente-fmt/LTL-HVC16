@@ -1,0 +1,1 @@
+!([]<>(!(X Person_0=="waiting" U <>Servis=="r") R (Servis=="r" <-> (Person_3=="in_elevator" || X Person_0=="in_elevator"))))

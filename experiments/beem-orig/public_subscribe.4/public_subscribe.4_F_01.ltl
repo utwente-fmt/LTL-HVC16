@@ -1,0 +1,1 @@
+!([]((CC=="doneCheckOut") -> <>((CC=="doneCheckedOut") || (CC=="doneNotAvailable"))))

@@ -1,0 +1,1 @@
+!(<>Table=="up_full" && <>((Belt=="q1" || Plate_5=="wait_press") && []!(Robot=="Bpress" <-> (<>Plate_4=="wait_deposit" U (Plate_4=="wait_press" && <>Plate_4=="wait_deposit")))))

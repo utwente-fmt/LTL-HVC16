@@ -1,0 +1,1 @@
+!(<>[]Slave2=="got" <-> ((Medium=="collision" <-> <>Slave2=="enquire") -> !(Master=="wait" U (User1=="got" -> Slave3=="got"))))

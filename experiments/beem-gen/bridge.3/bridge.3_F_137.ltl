@@ -1,0 +1,1 @@
+!(X torch=="two" R (X torch=="two" || (soldier_1=="go_right" R !(X soldier_8=="go_right" <-> []<>([]torch=="two" && X soldier_4=="go_left")))))

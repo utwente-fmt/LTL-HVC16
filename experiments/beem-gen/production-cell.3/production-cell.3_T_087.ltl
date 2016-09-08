@@ -1,0 +1,1 @@
+!((false R Robot=="Apress") || (X [](<>Robot=="Bpress" U ([]Deposit=="loaded" && <>Robot=="Bpress")) U (Plate_3=="wait_deposit" && X [](<>Robot=="Bpress" U ([]Deposit=="loaded" && <>Robot=="Bpress")))))

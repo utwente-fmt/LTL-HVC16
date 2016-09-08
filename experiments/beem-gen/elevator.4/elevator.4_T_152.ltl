@@ -1,0 +1,1 @@
+!(<>(((Person_1=="waiting" || []Elevator=="q") -> !Servis=="r") R !([]Elevator=="move_next" <-> []Person_0=="in_elevator")))

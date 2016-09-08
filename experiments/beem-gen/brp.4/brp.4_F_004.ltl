@@ -1,0 +1,1 @@
+!((!Sender=="ret" && <>[]Receiver=="first_safe") <-> (Sender=="next_frame" U (X <>Consumer=="check" R (X Receiver=="frame_reported" || X <>Consumer=="check"))))

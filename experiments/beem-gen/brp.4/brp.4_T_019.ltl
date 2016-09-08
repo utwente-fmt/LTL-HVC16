@@ -1,0 +1,1 @@
+!((<>(X Consumer=="get_msg" U !Receiver=="frame_received") R ((Consumer=="check" && Sender=="send") || <>(X Consumer=="get_msg" U !Receiver=="frame_received"))) U ([](Sender=="ret" U Receiver=="first_safe") && (<>(X Consumer=="get_msg" U !Receiver=="frame_received") R ((Consumer=="check" && Sender=="send") || <>(X Consumer=="get_msg" U !Receiver=="frame_received")))))

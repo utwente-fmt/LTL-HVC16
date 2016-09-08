@@ -1,0 +1,1 @@
+!(!(((Belt=="q2" R (Press=="pressing" U (Press=="pressing" && Table=="up_full"))) R (<>Deposit=="loaded" || (Belt=="q2" R (Press=="pressing" U (Press=="pressing" && Table=="up_full"))))) <-> (!Plate_2=="wait_belt" U (!Plate_2=="wait_belt" && !<>Robot=="Bpress"))))

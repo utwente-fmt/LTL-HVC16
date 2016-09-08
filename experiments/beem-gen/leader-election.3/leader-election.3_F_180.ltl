@@ -1,0 +1,1 @@
+!((!(Node_4=="q2" <-> (Node_3=="got_msg" R <>Node_5=="wait")) U (Node_5=="qwcheck" && !(Node_4=="q2" <-> (Node_3=="got_msg" R <>Node_5=="wait")))) U (Node_0=="wait" <-> (Node_1=="q2a" R (Node_1=="q2a" || X Node_2=="q2"))))

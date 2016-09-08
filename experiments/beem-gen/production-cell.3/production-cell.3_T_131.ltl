@@ -1,0 +1,1 @@
+!(<>((Robot=="Apress" && Robot=="Bdeposit") R !(Press=="pressing" <-> ((Press=="pressing" <-> !(Plate_2=="wait_belt" <-> Robot=="Bpress")) -> <>Plate_5=="wait_deposit"))))

@@ -1,0 +1,1 @@
+!([]!X ([]Servis=="r" R Person_2=="in_elevator") <-> X (Servis=="r" U (Person_2=="in_elevator" && Servis=="r")))

@@ -1,0 +1,1 @@
+!(!(!<>(true U Plate_5=="wait_deposit") <-> (Plate_1=="wait_belt" || <>([]Table=="up_full" R (Plate_3=="wait_press" || []Table=="up_full")))))

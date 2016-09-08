@@ -1,0 +1,1 @@
+!(!(<>X (soldier_1=="go_right" && soldier_3=="go_right") <-> <>(X soldier_6=="right" && (<>soldier_8=="go_right" R X soldier_6=="go_right"))))

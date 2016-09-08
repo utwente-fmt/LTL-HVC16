@@ -1,0 +1,1 @@
+!(!(Person_0=="Malinak" <-> !X Person_1=="Spilberk") R (<>Person_0=="Ceska" || !(Person_0=="Malinak" <-> !X Person_1=="Spilberk")))

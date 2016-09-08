@@ -1,0 +1,1 @@
+!(Elevator=="q" R (Elevator=="q" || (X <>(Person_0=="in_elevator" -> !Elevator=="transporting") U (X <>(Person_0=="in_elevator" -> !Elevator=="transporting") && (false R X (Person_1=="in_elevator" U (Person_0=="in_elevator" && Person_1=="in_elevator")))))))

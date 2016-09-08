@@ -1,0 +1,1 @@
+((X([](X(action=="liberation_A")))) U (<>((action=="basculement_1" || action=="basculement_2") U (action=="liberation_A"))))

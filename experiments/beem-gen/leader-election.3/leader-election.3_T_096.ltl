@@ -1,0 +1,1 @@
+!((Node_3=="q1a" && (Node_2=="qwcheck" -> Node_0=="qwcheck")) R ((Node_3=="q1a" && (Node_2=="qwcheck" -> Node_0=="qwcheck")) || !(<>X Node_0=="q1a" <-> !([]Node_0=="got_msg" <-> <>Node_5=="qw"))))

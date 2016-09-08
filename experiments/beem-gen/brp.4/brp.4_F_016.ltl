@@ -1,0 +1,1 @@
+!(X ((Sender=="wait_ack" R <>L=="got_msg") -> ((Sender=="ret" R <>Sender=="next_frame") U ((false R Sender=="q_error") && (Sender=="ret" R <>Sender=="next_frame")))))

@@ -1,0 +1,1 @@
+!((<>Producer=="start_send" R <>[]Producer=="start_send") || []<>(K=="got_msg" R (K=="got_msg" || <>K=="got_msg")))

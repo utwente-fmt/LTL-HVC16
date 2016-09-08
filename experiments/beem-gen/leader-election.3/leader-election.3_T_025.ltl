@@ -1,0 +1,1 @@
+!([]Node_4=="qw" R (((Node_3=="q1" R (Node_3=="q1" || []Node_1=="got_msg")) R <>!(Node_5=="q2a" <-> <>Node_3=="qw")) R (Node_4=="got_msg" || ((Node_3=="q1" R (Node_3=="q1" || []Node_1=="got_msg")) R <>!(Node_5=="q2a" <-> <>Node_3=="qw")))))

@@ -1,0 +1,1 @@
+!(<>(!scheduler_8=="wait" R ((scheduler_5=="wait" R scheduler_8=="to_start") U X scheduler_3=="to_start")) R !(!customer_2=="running" <-> scheduler_2=="wait"))

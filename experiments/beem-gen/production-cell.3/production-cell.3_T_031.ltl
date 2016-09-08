@@ -1,0 +1,1 @@
+!((Robot=="Bpress" U (Robot=="Bpress" && <>Belt=="q2")) || <>[]!((Deposit=="loaded" R (Deposit=="loaded" || Plate_0=="wait_belt")) <-> (Press=="done" R (Plate_4=="wait_deposit" || Press=="done"))))

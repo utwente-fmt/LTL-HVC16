@@ -1,0 +1,1 @@
+!(((Elevator=="move_next" R Servis=="r") R (Person_2=="in_elevator" R (!Person_1=="waiting" || Person_2=="in_elevator"))) R (<>(Person_3=="waiting" U (Person_3=="waiting" && (Person_2=="in_elevator" R Person_1=="in_elevator"))) || ((Elevator=="move_next" R Servis=="r") R (Person_2=="in_elevator" R (!Person_1=="waiting" || Person_2=="in_elevator")))))

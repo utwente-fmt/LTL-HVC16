@@ -1,0 +1,1 @@
+!(!(Consumer=="get_msg" <-> <>Receiver=="frame_reported") || <>[]X (Producer=="check" U (Producer=="check" && Sender=="ret")))

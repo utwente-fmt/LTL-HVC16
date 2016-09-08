@@ -1,0 +1,1 @@
+!(X Node_2=="got_msg" R ((!Node_1=="q2a" U X ((X Node_2=="q2" U Node_2=="q1n") || (Node_0=="q1" R Node_4=="qw"))) || X Node_2=="got_msg"))

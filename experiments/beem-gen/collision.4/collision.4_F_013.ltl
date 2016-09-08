@@ -1,0 +1,1 @@
+!(X (!X User1=="got" <-> (<>Slave1=="got" <-> <>(Slave4=="enquire" && (Medium=="got" U (Medium=="got" && []Slave3=="enquire"))))))

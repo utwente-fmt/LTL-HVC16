@@ -1,0 +1,1 @@
+!((true U Plate_5=="wait_belt") R !([]![]Plate_0=="wait_table" <-> <>(Robot=="Bdeposit" R !Plate_1=="wait_belt")))

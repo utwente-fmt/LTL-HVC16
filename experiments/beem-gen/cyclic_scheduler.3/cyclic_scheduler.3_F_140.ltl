@@ -1,0 +1,1 @@
+!([](<>[]scheduler_7=="wait" <-> ([](scheduler_9=="to_start" U X scheduler_3=="wait") R ([]scheduler_8=="wait" || [](scheduler_9=="to_start" U X scheduler_3=="wait")))))

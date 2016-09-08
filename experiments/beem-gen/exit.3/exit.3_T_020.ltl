@@ -1,0 +1,1 @@
+!(true U []((Person_0=="Ceska" && Person_1=="Ceska") <-> (<>Person_1=="Svobodak" -> !Person_1=="Malinak")))

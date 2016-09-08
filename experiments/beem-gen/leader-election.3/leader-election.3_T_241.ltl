@@ -1,0 +1,1 @@
+!([]!((Node_1=="q2a" || Node_4=="q2n") <-> ([]Node_3=="q1n" <-> (!(Node_2=="qwcheck" <-> X Node_5=="q1") U (Node_4=="wait" && !(Node_2=="qwcheck" <-> X Node_5=="q1"))))))

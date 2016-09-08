@@ -1,0 +1,1 @@
+!(([]customer_5=="q_error" -> X customer_7=="q_error") U X []!((customer_7=="q_error" -> scheduler_12=="started") <-> <>customer_12=="running"))

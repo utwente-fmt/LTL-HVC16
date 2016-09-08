@@ -1,0 +1,1 @@
+!(<>(Consumer=="check" <-> (!(<>[]X Sender=="ret" R ((Producer=="check" R !Producer=="check") || <>[]X Sender=="ret")) U (Producer=="check" && !(<>[]X Sender=="ret" R ((Producer=="check" R !Producer=="check") || <>[]X Sender=="ret"))))))

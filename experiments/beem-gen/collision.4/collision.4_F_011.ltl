@@ -1,0 +1,1 @@
+!((<>User4=="got" <-> (Slave1=="enquire" U (Slave1=="enquire" && <>Slave3=="got"))) U (!(<>[]User3=="wrong_data" <-> (Master=="wait" R (Master=="wait" || Slave3=="enquire"))) && (<>User4=="got" <-> (Slave1=="enquire" U (Slave1=="enquire" && <>Slave3=="got")))))

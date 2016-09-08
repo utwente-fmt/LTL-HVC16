@@ -1,0 +1,1 @@
+!([]((scheduler_6=="to_start" && (scheduler_0=="started" R <>scheduler_1=="started")) || (([]scheduler_7=="started" R (<>scheduler_4=="to_start" || []scheduler_7=="started")) -> scheduler_12=="to_start")))

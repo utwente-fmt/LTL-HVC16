@@ -1,0 +1,1 @@
+!([](cabin=="mov" || (controller=="done" <-> ([]cabin=="open" <-> <>controller=="work"))))

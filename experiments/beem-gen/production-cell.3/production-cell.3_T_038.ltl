@@ -1,0 +1,1 @@
+!(X X <>((Table=="up_empty" <-> (Plate_4=="wait_press" <-> Table=="up_full")) U ((Table=="up_empty" <-> (Plate_4=="wait_press" <-> Table=="up_full")) && [](Plate_3=="wait_table" <-> <>Belt=="q2"))))

@@ -1,0 +1,1 @@
+!(!(X Person_1=="waiting" <-> ((true U (Servis=="r" R []Elevator=="move_next")) R (<>X X []Elevator=="transporting" || (true U (Servis=="r" R []Elevator=="move_next"))))))

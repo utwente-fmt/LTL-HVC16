@@ -1,0 +1,1 @@
+!(!(<>([](Sender=="q_error" R (Receiver=="frame_received" || Sender=="q_error")) U (Sender=="ret" && [](Sender=="q_error" R (Receiver=="frame_received" || Sender=="q_error")))) <-> (L=="got_msg" <-> (![]Receiver=="first_safe" R (Sender=="send" || ![]Receiver=="first_safe")))))

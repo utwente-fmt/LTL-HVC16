@@ -1,0 +1,1 @@
+!(X (<>Plate_1=="wait_belt" && <>[]([](X Belt=="q2" <-> X Plate_3=="wait_belt") U (!Plate_5=="wait_deposit" && [](X Belt=="q2" <-> X Plate_3=="wait_belt")))))

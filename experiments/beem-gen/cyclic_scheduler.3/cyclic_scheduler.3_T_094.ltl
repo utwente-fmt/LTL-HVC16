@@ -1,0 +1,1 @@
+!(<>customer_0=="running" <-> <>([]!X scheduler_0=="started" R X scheduler_11=="started"))

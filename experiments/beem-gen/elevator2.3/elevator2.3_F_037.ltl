@@ -1,0 +1,1 @@
+!(X []![](cabin=="open" -> !cabin=="open") R (X []![](cabin=="open" -> !cabin=="open") || (controller=="done" U (controller=="done" && controller=="work"))))

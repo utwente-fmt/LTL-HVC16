@@ -1,0 +1,1 @@
+!(<>[](<>(Node_5=="q2n" R (Node_0=="q1" <-> Node_0=="q2n")) <-> ([]Node_1=="wait" -> (Node_2=="q2a" U (Node_0=="q2n" && Node_2=="q2a")))))

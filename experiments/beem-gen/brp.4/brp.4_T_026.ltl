@@ -1,0 +1,1 @@
+!(<>(false R X Receiver=="first_safe") <-> !((L=="got_msg" U (L=="got_msg" && []Sender=="wait_ack")) R []Producer=="start_send"))

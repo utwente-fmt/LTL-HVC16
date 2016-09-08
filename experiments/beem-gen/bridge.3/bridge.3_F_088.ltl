@@ -1,0 +1,1 @@
+!(X (soldier_8=="right" <-> <>(soldier_3=="right" R torch=="going")) R X (X soldier_4=="go_right" R <>soldier_3=="go_right"))

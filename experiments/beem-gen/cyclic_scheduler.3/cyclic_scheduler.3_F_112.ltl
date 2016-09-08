@@ -1,0 +1,1 @@
+!(<>!(scheduler_4=="started" <-> []((<>X scheduler_9=="started" U (!scheduler_9=="wait" && <>X scheduler_9=="started")) U !(scheduler_5=="wait" <-> <>customer_6=="running"))))

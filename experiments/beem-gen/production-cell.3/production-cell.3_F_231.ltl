@@ -1,0 +1,1 @@
+!(<>[](Robot=="Apress" || Robot=="Bpress" || Robot=="wait") R (![](Plate_0=="wait_deposit" || (Plate_1=="wait_belt" R Press=="done")) || <>[](Robot=="Apress" || Robot=="Bpress" || Robot=="wait")))

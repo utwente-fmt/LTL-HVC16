@@ -1,0 +1,1 @@
+!(cabin=="mov" R (cabin=="mov" || (true U <>!(<>controller=="done" U controller=="work"))))

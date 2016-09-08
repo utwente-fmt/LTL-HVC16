@@ -1,0 +1,1 @@
+!(!(X <>(<>Medium=="got" U []User4=="wrong_data") <-> (User2=="got" && ((Medium=="broadcast" R User2=="got") R (User3=="wrong_data" || (Medium=="broadcast" R User2=="got"))))))

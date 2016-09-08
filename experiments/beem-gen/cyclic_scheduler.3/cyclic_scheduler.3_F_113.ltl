@@ -1,0 +1,1 @@
+!([]<>!(X !scheduler_3=="started" <-> !(scheduler_12=="started" <-> (!scheduler_0=="started" && <>(customer_0=="q_error" && scheduler_8=="wait")))))

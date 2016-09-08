@@ -1,0 +1,1 @@
+!(<>([]Node_2=="got_msg" R ([]Node_2=="got_msg" || <>!(Node_2=="wait" <-> (X Node_5=="q1" R (Node_1=="qwcheck" <-> (Node_0=="qw" || Node_1=="q1a")))))))

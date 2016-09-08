@@ -1,0 +1,1 @@
+!(<>X <>(false R (soldier_1=="go_left" && <>soldier_2=="go_left")) U ((soldier_3=="right" U X soldier_2=="right") && <>X <>(false R (soldier_1=="go_left" && <>soldier_2=="go_left"))))

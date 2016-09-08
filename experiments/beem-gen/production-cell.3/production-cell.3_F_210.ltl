@@ -1,0 +1,1 @@
+!(!(Belt=="q1" U (([]!Plate_3=="wait_belt" R Plate_2=="wait_press") R (![]X !Plate_3=="wait_deposit" || ([]!Plate_3=="wait_belt" R Plate_2=="wait_press")))))

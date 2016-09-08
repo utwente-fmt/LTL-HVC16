@@ -1,0 +1,1 @@
+!(!((Elevator=="transporting" || Person_2=="in_elevator") <-> X X (Person_1=="waiting" R (Person_1=="waiting" || (true U []X (Person_2=="in_elevator" R (Person_0=="waiting" || Person_2=="in_elevator")))))))

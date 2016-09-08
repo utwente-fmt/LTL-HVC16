@@ -1,0 +1,1 @@
+!((<>cabin=="mov" R ((!controller=="work" -> cabin=="mov") || <>cabin=="mov")) U []<>cabin=="open")

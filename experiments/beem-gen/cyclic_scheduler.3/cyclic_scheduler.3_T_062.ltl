@@ -1,0 +1,1 @@
+!([]<>!(customer_6=="running" U (customer_6=="running" && X []scheduler_7=="started")) R <>(<>scheduler_0=="to_start" && []scheduler_11=="wait"))

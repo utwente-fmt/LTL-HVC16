@@ -1,0 +1,1 @@
+!(![]X ((scheduler_0=="started" <-> []!scheduler_12=="started") U (scheduler_12=="wait" || []scheduler_1=="to_start")))

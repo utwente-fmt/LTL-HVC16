@@ -1,0 +1,1 @@
+!(X !(User1=="wrong_data" <-> (User3=="wrong_data" R <>(!User1=="got" && User2=="got"))) U (false R !Slave1=="got"))

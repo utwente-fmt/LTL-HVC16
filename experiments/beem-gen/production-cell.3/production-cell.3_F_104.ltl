@@ -1,0 +1,1 @@
+!(!(X <>Plate_2=="wait_belt" <-> ((Plate_0=="wait_press" && (Plate_1=="wait_belt" || Plate_3=="wait_belt")) <-> <>X (Plate_1=="wait_belt" R Plate_1=="wait_press"))))

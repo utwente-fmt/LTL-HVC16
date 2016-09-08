@@ -1,0 +1,1 @@
+!(scheduler_2=="to_start" || !(scheduler_4=="to_start" <-> !((scheduler_12=="to_start" U (scheduler_12=="to_start" && (X scheduler_1=="started" R (scheduler_9=="to_start" || X scheduler_1=="started")))) R []<>scheduler_9=="started")))

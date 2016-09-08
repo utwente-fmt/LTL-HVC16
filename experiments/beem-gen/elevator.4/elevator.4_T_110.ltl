@@ -1,0 +1,1 @@
+!(X ((Elevator=="q" -> Person_3=="waiting") U [](!(Elevator=="move_next" <-> (Person_3=="waiting" U (Elevator=="q" && Person_3=="waiting"))) R ([]Person_3=="waiting" || !(Elevator=="move_next" <-> (Person_3=="waiting" U (Elevator=="q" && Person_3=="waiting")))))))

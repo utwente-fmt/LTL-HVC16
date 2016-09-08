@@ -1,0 +1,1 @@
+!(((Node_3=="q2n" <-> Node_4=="q2n") && X X Node_2=="wait") R (((Node_3=="q2n" <-> Node_4=="q2n") && X X Node_2=="wait") || X !(<>Node_2=="qw" <-> <>X Node_1=="qw")))

@@ -1,0 +1,1 @@
+!(X (!X Consumer=="check" <-> (<>Consumer=="get_msg" <-> <>(Receiver=="first_safe" && (Producer=="start_send" U (Producer=="start_send" && []Sender=="ret"))))))

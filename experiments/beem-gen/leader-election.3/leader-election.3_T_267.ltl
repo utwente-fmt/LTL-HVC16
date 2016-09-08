@@ -1,0 +1,1 @@
+!(<>!(Node_4=="q2n" <-> []Node_4=="q1") <-> [](((Node_0=="q2" U Node_2=="qw") -> []Node_5=="qwcheck") U (Node_4=="q2a" && ((Node_0=="q2" U Node_2=="qw") -> []Node_5=="qwcheck"))))

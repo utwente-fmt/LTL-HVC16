@@ -1,0 +1,1 @@
+!(<>[]X (!Plate_3=="wait_table" && !(!(Table=="up_full" <-> (Plate_3=="wait_deposit" -> Plate_0=="wait_belt")) <-> []Plate_3=="wait_belt")))

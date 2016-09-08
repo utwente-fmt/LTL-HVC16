@@ -1,0 +1,1 @@
+!(!(Receiver=="new_file" <-> (([]Producer=="check" R (<>Producer=="wait_result" || []Producer=="check")) U (K=="got_msg" U (K=="got_msg" && Sender=="success")))))

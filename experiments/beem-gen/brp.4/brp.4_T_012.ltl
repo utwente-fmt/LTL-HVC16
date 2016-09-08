@@ -1,0 +1,1 @@
+!((X (Sender=="send" <-> X Consumer=="st_error") <-> [](![]Receiver=="ret" U ([]Sender=="next_frame" && ![]Receiver=="ret"))) R (Sender=="q_error" || (X (Sender=="send" <-> X Consumer=="st_error") <-> [](![]Receiver=="ret" U ([]Sender=="next_frame" && ![]Receiver=="ret")))))

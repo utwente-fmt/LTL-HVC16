@@ -1,0 +1,1 @@
+!(!<>((Medium=="broadcast" R Slave2=="got") R ((!Slave3=="enquire" U (Slave3=="enquire" || (Medium=="got" <-> <>Slave1=="enquire"))) || (Medium=="broadcast" R Slave2=="got"))))

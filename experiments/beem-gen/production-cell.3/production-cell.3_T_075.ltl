@@ -1,0 +1,1 @@
+!([]([](<>X Plate_0=="wait_table" R (Belt=="q1" || <>X Plate_0=="wait_table")) U ([](Press=="done" && X Plate_4=="wait_press") && [](<>X Plate_0=="wait_table" R (Belt=="q1" || <>X Plate_0=="wait_table")))))

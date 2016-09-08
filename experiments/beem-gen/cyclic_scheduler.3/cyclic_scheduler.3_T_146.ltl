@@ -1,0 +1,1 @@
+!([]<>[](!([]scheduler_6=="wait" <-> []customer_0=="running") U (!(!scheduler_8=="wait" <-> X scheduler_5=="wait") && !([]scheduler_6=="wait" <-> []customer_0=="running"))))

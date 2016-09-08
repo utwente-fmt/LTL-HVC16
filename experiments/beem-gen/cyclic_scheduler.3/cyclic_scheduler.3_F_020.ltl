@@ -1,0 +1,1 @@
+!(X (<>X [](scheduler_1=="wait" || scheduler_3=="wait") || (<>!(scheduler_9=="wait" <-> <>scheduler_8=="to_start") -> customer_10=="q_error")))

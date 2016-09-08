@@ -1,0 +1,1 @@
+!([]<>X (Node_4=="got_msg" U X Node_4=="q2a") U (Node_3=="q2" <-> X (Node_1=="got_msg" U (Node_1=="got_msg" && Node_3=="q2"))))

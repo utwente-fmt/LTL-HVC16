@@ -1,0 +1,1 @@
+!(<>Plate_1=="wait_press" <-> (X Robot=="wait" U (X Robot=="wait" && <>(([]X Deposit=="loaded" R Plate_3=="wait_table") R ([]Plate_0=="wait_table" || ([]X Deposit=="loaded" R Plate_3=="wait_table"))))))

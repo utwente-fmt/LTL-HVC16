@@ -1,0 +1,1 @@
+!((false R Elevator=="q") <-> <>[](<>X Elevator=="transporting" && <>(Person_0=="waiting" <-> Person_2=="in_elevator")))

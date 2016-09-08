@@ -1,0 +1,1 @@
+!((((Node_2=="wait" || !Node_4=="wait") && ((Node_1=="qwcheck" R Node_3=="q2n") R (Node_1=="q1a" || (Node_1=="qwcheck" R Node_3=="q2n")))) R (<>Node_5=="q1a" || ((Node_2=="wait" || !Node_4=="wait") && ((Node_1=="qwcheck" R Node_3=="q2n") R (Node_1=="q1a" || (Node_1=="qwcheck" R Node_3=="q2n")))))) U Node_5=="q2")

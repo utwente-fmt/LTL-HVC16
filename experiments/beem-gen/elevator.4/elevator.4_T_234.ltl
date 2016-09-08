@@ -1,0 +1,1 @@
+!(<>(X Person_1=="waiting" R <>(X Person_3=="waiting" R (!X Elevator=="transporting" U (Elevator=="q" U (Elevator=="move_next" && Elevator=="q"))))))

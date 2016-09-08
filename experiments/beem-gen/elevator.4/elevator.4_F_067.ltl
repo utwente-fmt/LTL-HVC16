@@ -1,0 +1,1 @@
+!(X ((true U Person_0=="in_elevator") <-> (true U [](Person_2=="in_elevator" R (Person_2=="in_elevator" || X Person_2=="in_elevator")))))

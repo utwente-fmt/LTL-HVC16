@@ -1,0 +1,1 @@
+!(<>([](!Belt=="got_new" <-> (Press=="pressing" U ((Belt=="q1" || Press=="done") -> []Table=="down_full"))) R Plate_1=="wait_press"))

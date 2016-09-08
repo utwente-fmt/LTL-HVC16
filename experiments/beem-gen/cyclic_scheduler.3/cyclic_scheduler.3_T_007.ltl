@@ -1,0 +1,1 @@
+!([]<>((scheduler_4=="to_start" <-> (customer_11=="q_error" R <>customer_9=="q_error")) && (customer_4=="q_error" || (<>customer_2=="q_error" R (scheduler_2=="to_start" || <>customer_2=="q_error")))))

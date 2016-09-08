@@ -1,0 +1,1 @@
+!(!(Node_2=="wait" R <>Node_4=="qwcheck") <-> (<>(Node_1=="qw" <-> <>!(Node_4=="q1" <-> Node_5=="qwcheck")) U Node_4=="qwcheck"))

@@ -1,0 +1,1 @@
+!((true U X [](Person_3=="waiting" U X Person_2=="in_elevator")) U (X Person_2=="in_elevator" && (true U X [](Person_3=="waiting" U X Person_2=="in_elevator"))))

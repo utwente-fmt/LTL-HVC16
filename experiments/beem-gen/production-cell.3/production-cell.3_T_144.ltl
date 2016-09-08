@@ -1,0 +1,1 @@
+!(<>[]<>(!(Table=="up_empty" <-> []Plate_1=="wait_table") U (([]Plate_4=="wait_table" R Plate_5=="wait_deposit") && !(Table=="up_empty" <-> []Plate_1=="wait_table"))))

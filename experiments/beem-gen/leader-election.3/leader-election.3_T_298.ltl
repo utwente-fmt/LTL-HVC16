@@ -1,0 +1,1 @@
+!(X Node_3=="q1n" R (X Node_3=="q1n" || ([](X Node_0=="qw" || (<>Node_4=="q1" U Node_5=="q1a")) U ([](X Node_0=="qw" || (<>Node_4=="q1" U Node_5=="q1a")) && (Node_1=="qw" R (Node_1=="qw" || Node_3=="q2"))))))

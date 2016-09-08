@@ -1,0 +1,1 @@
+!(((X Node_2=="wait" R (<>Node_1=="q1n" || X Node_2=="wait")) U (Node_2=="got_msg" && (X Node_2=="wait" R (<>Node_1=="q1n" || X Node_2=="wait")))) R (((<>Node_0=="q2n" U X Node_2=="qw") U Node_3=="q2n") || ((X Node_2=="wait" R (<>Node_1=="q1n" || X Node_2=="wait")) U (Node_2=="got_msg" && (X Node_2=="wait" R (<>Node_1=="q1n" || X Node_2=="wait"))))))

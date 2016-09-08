@@ -1,0 +1,1 @@
+!(!(X X X !<>cabin=="mov" <-> X (<>[]controller=="done" R ([]cabin=="open" || <>[]controller=="done"))))

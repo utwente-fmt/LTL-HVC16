@@ -1,0 +1,1 @@
+!(((Producer=="ready") U (Producer=="produce0")) -> ((Consumer=="consume0") R ((Consumer=="consume0") || (Consumer=="got_msg") || (Consumer=="ready"))))

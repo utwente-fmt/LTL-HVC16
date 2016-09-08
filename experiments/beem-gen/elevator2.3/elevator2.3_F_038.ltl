@@ -1,0 +1,1 @@
+!(<>(false R (cabin=="mov" <-> (controller=="done" R cabin=="open"))))

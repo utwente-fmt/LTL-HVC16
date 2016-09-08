@@ -1,0 +1,1 @@
+!([]((X controller=="work" || (cabin=="mov" U !(controller=="work" <-> X controller=="done"))) R (controller=="done" || X controller=="work" || (cabin=="mov" U !(controller=="work" <-> X controller=="done")))))

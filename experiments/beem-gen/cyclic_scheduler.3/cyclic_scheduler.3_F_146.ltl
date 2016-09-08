@@ -1,0 +1,1 @@
+!(((customer_6=="q_error" -> customer_0=="q_error") U []customer_10=="q_error") <-> <>(customer_7=="running" && (!customer_5=="running" R (!customer_5=="running" || customer_9=="running"))))

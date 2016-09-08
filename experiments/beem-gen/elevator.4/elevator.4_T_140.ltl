@@ -1,0 +1,1 @@
+!((![]Person_0=="in_elevator" R (![]Person_0=="in_elevator" || !(Person_3=="waiting" <-> []Person_2=="waiting"))) U (Person_1=="in_elevator" && []Servis=="r" && (![]Person_0=="in_elevator" R (![]Person_0=="in_elevator" || !(Person_3=="waiting" <-> []Person_2=="waiting")))))

@@ -1,0 +1,1 @@
+!(!(Press=="pressing" <-> []!(!Plate_1=="wait_deposit" <-> (Plate_0=="wait_deposit" R (Plate_0=="wait_deposit" || (<>Table=="up_full" <-> (Press=="pressing" <-> []Plate_3=="wait_deposit")))))))

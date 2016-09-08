@@ -1,0 +1,1 @@
+!([](<>X X Person_1=="Spilberk" U ((Person_0=="Malinak" R Person_0=="Ceska") R (Person_1=="Ceska" || (Person_0=="Malinak" R Person_0=="Ceska")))) U (Person_0=="Malinak" && Person_1=="Spilberk" && [](<>X X Person_1=="Spilberk" U ((Person_0=="Malinak" R Person_0=="Ceska") R (Person_1=="Ceska" || (Person_0=="Malinak" R Person_0=="Ceska"))))))

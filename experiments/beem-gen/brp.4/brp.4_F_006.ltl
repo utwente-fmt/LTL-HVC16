@@ -1,0 +1,1 @@
+!((Sender=="wait_ack" -> <>Consumer=="st_error") U !<>(!Consumer=="get_msg" -> ([]K=="got_msg" U []Consumer=="st_error")))

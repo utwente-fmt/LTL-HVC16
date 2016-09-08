@@ -1,0 +1,1 @@
+!(<>!(((customer_10=="running" <-> scheduler_1=="wait") R scheduler_1=="to_start") <-> []<>(scheduler_2=="to_start" U X <>customer_9=="q_error")))

@@ -1,0 +1,1 @@
+!([](<>[]((Receiver=="new_file" && Sender=="ret") R Receiver=="frame_reported") || X (!Receiver=="frame_received" U (!Receiver=="frame_received" && X Producer=="check"))))

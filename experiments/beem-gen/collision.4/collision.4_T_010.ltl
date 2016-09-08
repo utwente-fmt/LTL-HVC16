@@ -1,0 +1,1 @@
+!(<>[]((!Slave3=="got" && User4=="wrong_data") U (!Medium=="got" && !Slave3=="got" && User4=="wrong_data")) R ((Slave2=="enquire" U (Slave2=="enquire" && User1=="got")) || <>[]((!Slave3=="got" && User4=="wrong_data") U (!Medium=="got" && !Slave3=="got" && User4=="wrong_data"))))

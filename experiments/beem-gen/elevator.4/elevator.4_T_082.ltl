@@ -1,0 +1,1 @@
+!((Servis=="r" R (Servis=="r" || <>Person_0=="waiting")) U (<>(<>(Person_3=="in_elevator" U (Person_1=="in_elevator" && Person_3=="in_elevator")) && X (Servis=="r" R (Elevator=="q" || Servis=="r"))) && (Servis=="r" R (Servis=="r" || <>Person_0=="waiting"))))

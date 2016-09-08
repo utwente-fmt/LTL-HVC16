@@ -1,0 +1,1 @@
+!(!(Plate_2=="wait_table" <-> (Table=="up_full" || !X Plate_1=="wait_belt")) R (X <>((Plate_3=="wait_belt" R Plate_3=="wait_deposit") R (Plate_2=="wait_table" || (Plate_3=="wait_belt" R Plate_3=="wait_deposit"))) || !(Plate_2=="wait_table" <-> (Table=="up_full" || !X Plate_1=="wait_belt"))))

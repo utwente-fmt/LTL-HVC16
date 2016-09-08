@@ -1,0 +1,1 @@
+!((((Belt=="got_new" R Plate_3=="wait_table") -> Table=="up_empty") R <>Plate_3=="wait_press") U ((((Belt=="got_new" R Plate_3=="wait_table") -> Table=="up_empty") R <>Plate_3=="wait_press") && ([]Plate_2=="wait_deposit" U (Plate_3=="wait_table" && Robot=="Bpress" && []Plate_2=="wait_deposit"))))

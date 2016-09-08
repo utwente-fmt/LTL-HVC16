@@ -1,0 +1,1 @@
+!([](((Node_1=="qwcheck" <-> []Node_3=="qw") U X X Node_3=="q1n") U (X Node_0=="wait" && ((Node_1=="qwcheck" <-> []Node_3=="qw") U X X Node_3=="q1n"))))

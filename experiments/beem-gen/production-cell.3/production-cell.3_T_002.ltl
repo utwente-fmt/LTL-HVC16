@@ -1,0 +1,1 @@
+!(<>[]!((Plate_0=="wait_deposit" || Robot=="Apress") <-> []([]Belt=="q1" U ((Plate_1=="wait_belt" || (Plate_5=="wait_deposit" U Plate_0=="wait_deposit")) && []Belt=="q1"))))

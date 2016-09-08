@@ -1,0 +1,1 @@
+!(false R X ([](X soldier_2=="go_right" -> soldier_2=="go_right") <-> (soldier_8=="go_right" || (soldier_6=="right" R (soldier_6=="right" || X soldier_5=="go_left")))))

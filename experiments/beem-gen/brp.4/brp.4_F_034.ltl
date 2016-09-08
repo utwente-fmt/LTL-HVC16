@@ -1,0 +1,1 @@
+!(<>(!(Consumer=="get_msg" <-> X (Sender=="next_frame" R (Receiver=="ret" || Sender=="next_frame"))) U ((!Producer=="check" <-> <>(Sender=="next_frame" R Sender=="success")) && !(Consumer=="get_msg" <-> X (Sender=="next_frame" R (Receiver=="ret" || Sender=="next_frame"))))))

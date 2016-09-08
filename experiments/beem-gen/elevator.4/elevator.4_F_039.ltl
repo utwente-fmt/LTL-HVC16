@@ -1,0 +1,1 @@
+!(!(Person_3=="waiting" <-> (X <>Person_2=="in_elevator" <-> <>!<>Servis=="r")))

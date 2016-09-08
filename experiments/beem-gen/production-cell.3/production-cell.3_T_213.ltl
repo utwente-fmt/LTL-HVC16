@@ -1,0 +1,1 @@
+!(<>[](((Plate_3=="wait_press" U Plate_4=="wait_table") U X Robot=="wait") <-> (Table=="up_empty" U (Table=="up_empty" && X (Plate_0=="wait_press" U Robot=="Bpress")))))

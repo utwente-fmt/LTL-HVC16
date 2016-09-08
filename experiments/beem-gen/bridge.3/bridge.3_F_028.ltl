@@ -1,0 +1,1 @@
+!([]!(<>torch=="two" <-> []soldier_1=="go_left") <-> (<>soldier_5=="go_right" U (soldier_2=="go_right" && (soldier_5=="right" U soldier_7=="go_right") && <>soldier_5=="go_right")))

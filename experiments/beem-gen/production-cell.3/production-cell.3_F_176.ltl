@@ -1,0 +1,1 @@
+!(!((<>X !Plate_5=="wait_press" -> !<>Plate_0=="wait_press") <-> (<>Plate_1=="wait_belt" && <>[]Plate_1=="wait_press")))

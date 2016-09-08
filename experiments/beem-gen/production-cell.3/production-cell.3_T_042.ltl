@@ -1,0 +1,1 @@
+!(<>[](Plate_1=="wait_table" R (((Belt=="q2" R Robot=="Bpress") U Deposit=="loaded") <-> (X Robot=="Bpress" R (Plate_3=="wait_belt" || X Robot=="Bpress")))))

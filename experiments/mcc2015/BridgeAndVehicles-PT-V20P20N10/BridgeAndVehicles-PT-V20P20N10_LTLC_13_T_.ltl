@@ -1,0 +1,1 @@
+((X(<>((VIDANGE_1 + VIDANGE_2) <= (ATTENTE_B)))) U (((2) <= (CAPACITE)) U ((3) <= (SORTI_B))))

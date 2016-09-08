@@ -1,0 +1,1 @@
+!([](X <>Person_1=="Ceska" U (X <>Person_1=="Ceska" && !(true U Person_0=="Svobodak"))))

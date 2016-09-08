@@ -1,0 +1,1 @@
+!([]((<>Plate_4=="wait_table" R ((X Plate_0=="wait_belt" -> Table=="up_full") || <>Plate_4=="wait_table")) U ([]([]Robot=="Apress" || []Plate_0=="wait_belt") && (<>Plate_4=="wait_table" R ((X Plate_0=="wait_belt" -> Table=="up_full") || <>Plate_4=="wait_table")))))

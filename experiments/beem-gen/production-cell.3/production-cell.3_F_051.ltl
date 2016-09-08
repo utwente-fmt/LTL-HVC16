@@ -1,0 +1,1 @@
+!(<>[]Table=="down_full" <-> (X X []<>Table=="up_empty" && (<>Plate_1=="wait_press" R (Plate_0=="wait_press" || <>Plate_1=="wait_press"))))

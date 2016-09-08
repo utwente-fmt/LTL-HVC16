@@ -1,0 +1,1 @@
+!(!(X !X Person_1=="waiting" <-> ((Person_3=="waiting" <-> Servis=="r") U ((Person_3=="waiting" <-> Servis=="r") && <>!<>[]X Elevator=="q"))))

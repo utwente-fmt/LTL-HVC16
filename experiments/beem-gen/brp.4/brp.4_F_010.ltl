@@ -1,0 +1,1 @@
+!([]Receiver=="new_file" R X ([](Sender=="q_error" U <>Sender=="next_frame") U ([](Sender=="q_error" U <>Sender=="next_frame") && (Consumer=="get_msg" U (Consumer=="get_msg" && <>X Receiver=="first_safe")))))

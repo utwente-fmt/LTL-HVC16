@@ -1,0 +1,1 @@
+((X(<>(<>(action=="liberation_B")))) U ((X(action=="altern_cpt_1_10" || action=="altern_cpt_2_10")) U ([](action=="altern_cpt_1_10" || action=="altern_cpt_2_10"))))

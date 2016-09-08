@@ -1,0 +1,1 @@
+!(!([]Node_5=="q1a" R ([]Node_5=="q1a" || !(X Node_0=="q1a" R (<>!(X Node_5=="q1" -> []Node_4=="wait") || X Node_0=="q1a")))))

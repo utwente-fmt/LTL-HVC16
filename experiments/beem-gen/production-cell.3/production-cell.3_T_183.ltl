@@ -1,0 +1,1 @@
+!(!([]!(X Plate_0=="wait_belt" <-> !(Plate_5=="wait_deposit" U (Plate_5=="wait_deposit" && [](Plate_4=="wait_table" -> Plate_0=="wait_deposit")))) R (<>Press=="pressing" || []!(X Plate_0=="wait_belt" <-> !(Plate_5=="wait_deposit" U (Plate_5=="wait_deposit" && [](Plate_4=="wait_table" -> Plate_0=="wait_deposit")))))))

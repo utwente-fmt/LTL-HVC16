@@ -1,0 +1,1 @@
+!([]!(<>scheduler_9=="started" <-> []!(<>scheduler_12=="started" <-> X (<>scheduler_3=="started" && X scheduler_7=="to_start"))))

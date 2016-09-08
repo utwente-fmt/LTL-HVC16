@@ -1,0 +1,1 @@
+!(!(!Belt=="q1" <-> <>([]<>Robot=="wait" R (Robot=="Bpress" && []!Deposit=="loaded"))))

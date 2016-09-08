@@ -1,0 +1,1 @@
+!(Node_0=="q1a" R (Node_0=="q1a" || (!(Node_0=="q1n" <-> Node_0=="wait") R (Node_1=="qwcheck" <-> (X Node_4=="qw" <-> !(Node_3=="q1a" R Node_0=="q2"))))))

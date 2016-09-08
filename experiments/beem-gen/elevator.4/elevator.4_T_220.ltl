@@ -1,0 +1,1 @@
+!(Person_0=="waiting" R ((false R <>[](!Person_3=="in_elevator" && X Person_1=="in_elevator")) U (!Person_3=="waiting" && (false R <>[](!Person_3=="in_elevator" && X Person_1=="in_elevator")))))

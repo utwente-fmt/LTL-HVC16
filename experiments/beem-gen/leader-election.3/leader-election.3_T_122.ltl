@@ -1,0 +1,1 @@
+!((Node_0=="qwcheck" <-> (Node_1=="q2a" R (Node_1=="q2a" || X Node_4=="qwcheck"))) R (([]Node_2=="q2" || <>Node_5=="qw") -> <>Node_1=="q2n"))

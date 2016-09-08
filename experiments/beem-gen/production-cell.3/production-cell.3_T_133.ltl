@@ -1,0 +1,1 @@
+!([](!(Press=="pressing" R Table=="up_empty") U ((Press=="done" || X Belt=="got_new") && []<>[]Table=="down_full" && !(Press=="pressing" R Table=="up_empty"))))

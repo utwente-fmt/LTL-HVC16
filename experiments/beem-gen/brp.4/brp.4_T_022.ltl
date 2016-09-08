@@ -1,0 +1,1 @@
+!(<>(Sender=="next_frame" U (Sender=="next_frame" && X Sender=="wait_ack")) R (((Receiver=="ret" || (K=="got_msg" R (K=="got_msg" || Sender=="send"))) && (Consumer=="check" U (Consumer=="check" && Sender=="wait_ack"))) || <>(Sender=="next_frame" U (Sender=="next_frame" && X Sender=="wait_ack"))))

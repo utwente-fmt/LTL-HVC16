@@ -1,0 +1,1 @@
+!(customer_0=="q_error" R (!X X customer_6=="q_error" U (customer_5=="running" && X !X <>customer_4=="running" && !X X customer_6=="q_error")))

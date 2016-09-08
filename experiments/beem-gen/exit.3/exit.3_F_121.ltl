@@ -1,0 +1,1 @@
+!(!(X (!Person_0=="Svobodak" <-> <>Person_1=="Svobodak") <-> ((Person_0=="Spilberk" U Person_1=="Svobodak") R ((<>Person_0=="Ceska" U Person_0=="Petrov") || (Person_0=="Spilberk" U Person_1=="Svobodak")))))

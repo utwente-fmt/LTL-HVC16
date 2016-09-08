@@ -1,0 +1,1 @@
+!(<>((Person_0=="waiting" -> Person_2=="waiting") && (Person_3=="in_elevator" R X []<>(Person_2=="in_elevator" U (Person_2=="in_elevator" && X Person_1=="in_elevator")))))

@@ -1,0 +1,1 @@
+!(<>((Deposit=="loaded" R Press=="pressing") R <>[]X Plate_3=="wait_belt") R (<>Plate_4=="wait_press" U (X Plate_1=="wait_deposit" && <>Plate_4=="wait_press")))

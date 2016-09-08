@@ -1,0 +1,1 @@
+!((!K=="got_msg" U Sender=="wait_ack") R (X !(Sender=="wait_ack" U (Sender=="wait_ack" && <>[]Sender=="next_frame")) U []K=="got_msg"))

@@ -1,0 +1,1 @@
+!(([]Person_0=="Petrov" U []Person_0=="Moravak") <-> <>([]Person_1=="Spilberk" <-> [](<>Person_1=="Malinak" U Person_1=="Spilberk")))

@@ -1,0 +1,1 @@
+!((X Node_5=="q2n" R (<>Node_4=="q2n" || X Node_5=="q2n")) U ((X Node_3=="q2" -> Node_0=="wait") <-> (X Node_4=="qwcheck" R (Node_0=="got_msg" || X Node_4=="qwcheck"))))

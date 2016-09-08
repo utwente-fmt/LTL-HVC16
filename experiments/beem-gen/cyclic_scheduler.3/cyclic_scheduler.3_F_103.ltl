@@ -1,0 +1,1 @@
+!([]((X customer_0=="q_error" -> customer_9=="running") U ((X customer_0=="q_error" -> customer_9=="running") && (<>X scheduler_3=="started" <-> (X scheduler_11=="started" R (X scheduler_4=="started" || X scheduler_11=="started"))))))

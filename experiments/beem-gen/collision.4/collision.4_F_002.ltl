@@ -1,0 +1,1 @@
+!(<>((!Slave4=="enquire" U Medium=="collision") -> (!(User1=="wrong_data" U []!User4=="wrong_data") R (<>Medium=="broadcast" || !(User1=="wrong_data" U []!User4=="wrong_data")))))

@@ -1,0 +1,1 @@
+((<>((action=="CheckDeliveryNote_t6_6") U (action=="PutWhatDeliver_t6_1"))) U (X(X(action=="PutOfferResponse_t2"))))

@@ -1,0 +1,1 @@
+!(!(!((User_0=="doneGet") || (User_0=="doneRegister")) U (UserAdmin_0=="doneNotify")) && []((User_0=="doneUnRegister") -> !(!((User_0=="doneGet") || (User_0=="doneRegister")) U (UserAdmin_0=="doneNotify"))))

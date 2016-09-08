@@ -1,0 +1,1 @@
+!(!((soldier_5=="go_left" -> (soldier_2=="go_left" -> torch=="going")) <-> !([]<>torch=="going" -> (torch=="two" U (!soldier_1=="go_left" && torch=="two")))))

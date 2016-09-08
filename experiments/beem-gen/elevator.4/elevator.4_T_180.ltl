@@ -1,0 +1,1 @@
+!([]<>[]<>X (([]Person_0=="in_elevator" R Person_0=="waiting") U (<>Person_1=="waiting" && ([]Person_0=="in_elevator" R Person_0=="waiting"))))

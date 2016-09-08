@@ -1,0 +1,1 @@
+!(((customer_10=="running" U scheduler_12=="started") U (customer_1=="running" && (customer_10=="running" U scheduler_12=="started"))) R (X ([]scheduler_1=="wait" U (scheduler_12=="wait" -> scheduler_2=="wait")) || ((customer_10=="running" U scheduler_12=="started") U (customer_1=="running" && (customer_10=="running" U scheduler_12=="started")))))

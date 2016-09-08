@@ -1,0 +1,1 @@
+!((<>Node_1=="qw" <-> !(Node_2=="q1a" <-> X Node_3=="wait")) R (Node_0=="got_msg" || <>Node_1=="q2n" || <>Node_3=="got_msg" || (<>Node_1=="qw" <-> !(Node_2=="q1a" <-> X Node_3=="wait"))))

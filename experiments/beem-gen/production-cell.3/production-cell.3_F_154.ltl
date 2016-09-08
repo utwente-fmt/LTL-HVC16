@@ -1,0 +1,1 @@
+!((Plate_1=="wait_table" && ![]<>Table=="down_full") R (<>Plate_5=="wait_belt" || (<>Plate_1=="wait_belt" U (<>Robot=="Bpress" && <>Plate_1=="wait_belt"))))

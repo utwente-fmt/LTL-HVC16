@@ -1,0 +1,1 @@
+!(<>(X customer_11=="q_error" <-> <>scheduler_1=="to_start") <-> <>((scheduler_4=="started" U (scheduler_4=="started" && scheduler_8=="to_start")) R X scheduler_3=="to_start"))

@@ -1,0 +1,1 @@
+!(([]Plate_3=="wait_deposit" || !([]Plate_4=="wait_press" <-> <>[]Belt=="q1")) U (Belt=="got_new" U !<>Plate_1=="wait_table"))

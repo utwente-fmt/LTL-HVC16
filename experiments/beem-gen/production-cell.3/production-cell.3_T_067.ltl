@@ -1,0 +1,1 @@
+!(X <>[](((!Robot=="Bpress" U (!Robot=="Bpress" && []Plate_4=="wait_deposit")) U X Plate_1=="wait_press") R (!(Robot=="Bpress" <-> Robot=="wait") || ((!Robot=="Bpress" U (!Robot=="Bpress" && []Plate_4=="wait_deposit")) U X Plate_1=="wait_press"))))

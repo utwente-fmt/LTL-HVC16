@@ -1,0 +1,1 @@
+!((!Elevator=="move_next" -> Person_2=="waiting") <-> []<>(X Elevator=="move_next" <-> X Person_2=="waiting"))

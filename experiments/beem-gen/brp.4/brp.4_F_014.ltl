@@ -1,0 +1,1 @@
+!((<>Consumer=="st_error" U ([]Receiver=="ret" && <>Consumer=="st_error")) <-> (true U (X Producer=="start_send" R (Producer=="start_send" R []Receiver=="frame_reported"))))

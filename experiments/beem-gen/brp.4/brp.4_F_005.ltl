@@ -1,0 +1,1 @@
+!(X []<>!(<>[]Producer=="start_send" <-> []!(X Receiver=="ret" <-> (Producer=="check" U Sender=="wait_ack"))))

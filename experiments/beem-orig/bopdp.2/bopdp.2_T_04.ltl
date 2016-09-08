@@ -1,0 +1,1 @@
+!(![](((sleeping=="0") && ((ap_interrupt=="1") || (lsl_interrupt=="1"))) -> (!((ap_interrupt=="1") || (lsl_interrupt=="1")) R ((sleeping=="0") || !((ap_interrupt=="1") || (lsl_interrupt=="1"))))))

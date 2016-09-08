@@ -1,0 +1,1 @@
+!(!Belt=="q1" <-> X !(<>Robot=="wait" <-> ((Plate_4=="wait_belt" U (Plate_4=="wait_belt" && Press=="pressing")) R (<>Belt=="q1" || (Plate_4=="wait_belt" U (Plate_4=="wait_belt" && Press=="pressing"))))))

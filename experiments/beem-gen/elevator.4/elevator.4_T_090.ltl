@@ -1,0 +1,1 @@
+!(X X X Person_3=="in_elevator" || []<>X !([]Elevator=="q" <-> X (Person_3=="in_elevator" R Person_2=="in_elevator")))

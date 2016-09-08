@@ -1,0 +1,1 @@
+!(!([]K=="got_msg" <-> []<>((Consumer=="st_error" <-> !((Receiver=="first_safe" R (Receiver=="first_safe" || Receiver=="new_file")) R Receiver=="ret")) R Receiver=="frame_reported")))

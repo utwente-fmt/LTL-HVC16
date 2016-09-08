@@ -1,0 +1,1 @@
+!(<>X (<>[]<>X []Sender=="send" R (<>[]<>X []Sender=="send" || !(Consumer=="st_error" <-> <>!(Receiver=="first_safe" <-> Sender=="next_frame")))))

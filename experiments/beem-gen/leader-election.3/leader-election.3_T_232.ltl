@@ -1,0 +1,1 @@
+!([]((X Node_0=="got_msg" -> Node_4=="got_msg") U ((X Node_0=="got_msg" -> Node_4=="got_msg") && (<>X Node_1=="q2a" <-> (X Node_5=="q1n" R (X Node_2=="got_msg" || X Node_5=="q1n"))))))

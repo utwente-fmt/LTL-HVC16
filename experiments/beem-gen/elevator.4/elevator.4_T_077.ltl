@@ -1,0 +1,1 @@
+!(((Person_1=="waiting" U []Elevator=="transporting") <-> (Person_0=="in_elevator" U (Elevator=="move_next" && Person_0=="in_elevator"))) U (Person_3=="in_elevator" U []Person_1=="in_elevator"))

@@ -1,0 +1,1 @@
+!(X <>[](scheduler_9=="started" <-> X X <>!(X []scheduler_6=="started" R (X scheduler_11=="to_start" || X []scheduler_6=="started"))))

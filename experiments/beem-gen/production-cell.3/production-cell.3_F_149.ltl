@@ -1,0 +1,1 @@
+!(!<>(<>(Belt=="got_new" R Plate_5=="wait_deposit") <-> ((Plate_4=="wait_deposit" && Plate_5=="wait_table") R ((Plate_4=="wait_deposit" && Plate_5=="wait_table") || ([]Robot=="Bpress" -> Press=="pressing")))))

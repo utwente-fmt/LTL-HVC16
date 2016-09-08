@@ -1,0 +1,1 @@
+!(!Servis=="r" <-> X !(<>Elevator=="transporting" <-> ((Person_2=="in_elevator" U (Elevator=="move_next" && Person_2=="in_elevator")) R (<>Servis=="r" || (Person_2=="in_elevator" U (Elevator=="move_next" && Person_2=="in_elevator"))))))

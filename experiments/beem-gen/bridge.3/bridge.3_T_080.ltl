@@ -1,0 +1,1 @@
+!(!(X soldier_2=="go_left" <-> []soldier_7=="go_right") U (true U [](soldier_2=="right" U (soldier_2=="go_right" && soldier_2=="right"))))

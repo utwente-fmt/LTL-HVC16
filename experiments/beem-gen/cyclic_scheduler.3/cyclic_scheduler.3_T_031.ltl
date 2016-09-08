@@ -1,0 +1,1 @@
+!(!(!scheduler_6=="started" <-> []scheduler_5=="wait") R (![]X customer_10=="q_error" <-> <>(scheduler_4=="started" && scheduler_7=="to_start")))

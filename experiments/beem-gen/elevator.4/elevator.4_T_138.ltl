@@ -1,0 +1,1 @@
+!(Person_3=="waiting" U (Person_3=="in_elevator" R (<>Person_2=="in_elevator" U (<>Person_2=="waiting" && !(true U Elevator=="transporting")))))

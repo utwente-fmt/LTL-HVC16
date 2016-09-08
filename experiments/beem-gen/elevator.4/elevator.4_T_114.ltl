@@ -1,0 +1,1 @@
+!(<>X ((Elevator=="q" R Person_1=="in_elevator") R ((Person_1=="waiting" U Servis=="r") || ([]Servis=="r" && []Person_0=="waiting"))))

@@ -1,0 +1,11 @@
+This folder contains the experimental results of UFSCC,
+only for models that contain a counterexample (_F_).
+Here, all counterexamples are computed exactly
+(thus no ~number).
+
+However, this trace generation takes some extra time,
+which should be omitted from the actual cycle detection
+time.
+
+Therefore, only the counterexample sizes (the "ltl"
+column) should be used for the discussion.
