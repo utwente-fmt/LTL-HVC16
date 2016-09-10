@@ -57,12 +57,12 @@ zlib1g-dev zlib1g flex ant asciidoc xmlto doxygen wget git
 2. Checkout the Spot 2.0 version:
     * `$ git checkout spot-2-0`
 4. Get the latest modules for ltsmin:
-    * `git submodule update --init`
+    * `$ git submodule update --init`
 5. Configure:
-    * `./configure --prefix=$HOME/install --disable-python`
+    * `$ ./configure --prefix=$HOME/install --disable-python`
     * Perhaps change the prefix location. At current it will install to your `$HOME` directory under `install`.
 6. Make and install:
-    * `make && make install`
+    * `$ make && make install`
 
 
 ### Installing LTSmin
@@ -74,14 +74,14 @@ zlib1g-dev zlib1g flex ant asciidoc xmlto doxygen wget git
 2. Checkout the version used for the paper:
     * `$ git checkout hvc16`
 4. Get the latest modules for ltsmin:
-    * `git submodule update --init`
+    * `$ git submodule update --init`
 5. Run `ltsminreconf`:
-    * `./ltsminreconf`
+    * `$ ./ltsminreconf`
 6. Configure the LTSmin build:
-    * `./configure --without-scoop --without-sylvan --with-spot=$HOME/install --prefix $HOME/install`
+    * `$ ./configure --without-scoop --without-sylvan --with-spot=$HOME/install --prefix $HOME/install`
     * Perhaps change the prefix location. At current it will install to your `$HOME` directory under `install`.
 7. Make and install:
-    * `make && make install`
+    * `$ make && make install`
 
 
 Usage
@@ -130,7 +130,7 @@ The graphs and tables in the paper were obtained from these results, using the
 R script `generate-plots.R`, which can be used as follows:
 
 ```
-Rscript generate-plots.R
+$ Rscript generate-plots.R
 ```
 
 The script will printout table contents on the standard output, and generate
