@@ -307,7 +307,7 @@ f_scatter_speedup_scc = function(data, ce_type, pdf_name, title, x_name, y_name,
   
   grid(nx=NULL, ny=NULL, col= "black", lty="dotted", equilogs=FALSE)
   abline(h=1, col = "black", lwd = 2)
-  abline(h=64, col = "black", lwd = 2)
+  #abline(h=64, col = "black", lwd = 2)
   legend("topleft",title=" |Largest SCC| / |states| ", pch=c(3,1,2), col=c(MYGREEN,MYRED,MYBLUE), 
          c("50% - 100%", 
            "  1% - 50%",
@@ -536,8 +536,7 @@ f_work = function(data, ce_type, pdf_name, title, x_name, y_name, alg_x, buchi_x
   
   frame = as.matrix(data.frame(small,med,large))
   
-  print("large SCC ratio to visited states:")
-  print(gm_mean(large_scc$claimfound) / large_tot)
+  print(frame)
   
   colnames(frame) = c("small", "medium", "large")
   rownames(frame) = c("new", "visited", "dead")
