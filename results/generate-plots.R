@@ -24,10 +24,6 @@ printnum = function(x, k=2){
   format(round(x, k), nsmall=k)
 }
 
-MYBLUE  = rgb(0/255, 0/255, 255/255, .8)
-MYRED   = rgb(255/255, 0/255, 0/255, .8)
-MYGREEN = rgb(0/255, 128/255, 0/255, .8)
-
 
 ###############
 # Import data #
@@ -100,6 +96,13 @@ results_combined       = rbind(rbind(results_beemorig, results_beemgen), results
 # Plot functions #
 ##################
 
+#MYBLUE  = rgb(37/255, 52/255, 148/255, 1)
+#MYRED   = rgb(224/255, 45/255, 38/255, 1)
+#MYGREEN = rgb(116/255, 196/255, 118/255, 1)
+
+MYBLUE  = rgb(8/255, 81/255, 156/255, 1)
+MYRED   = rgb(251/255, 106/255, 74/255, 1)
+MYGREEN = rgb(161/255, 217/255, 155/255, 1)
 
 # Scatterplot speedup function (without colors)
 f_scatter_speedup = function(data, ce_type, pdf_name, title, x_name, y_name, alg_x, buchi_x, workers_x, alg_y, buchi_y, workers_y, mintime, maxtime, miny=0.1, maxy=100) {
