@@ -38,6 +38,12 @@ characteristics relate to and pose limitations on the achieved speedups.*
 
 Installation
 ---
+
+Static binaries are available for Linux distributions, see
+https://github.com/vbloemen/ltsmin/releases.
+Note that we did not use these binaries for the experiments, hence results may
+differ.
+
 If you experience any issues with the installation please consult the [LTSmin] 
 website and [Spot] website for further instructions.
 
@@ -50,37 +56,31 @@ zlib1g-dev zlib1g flex ant asciidoc xmlto doxygen wget git
 
 ### Installing Spot 2.0
 
-1. Clone the Spot repository:
-    * `$ git clone https://gitlab.lrde.epita.fr/spot/spot.git`
+1. Download Spot:
+    * `$ wget https://www.lrde.epita.fr/dload/spot/spot-2.0.tar.gz`
+2. Unpack the tar:
+    * `$ tar -xvf  spot-2.0.tar.gz`
 2. Change directory:
-    * `$ cd spot`
-2. Checkout the Spot 2.0 version:
-    * `$ git checkout spot-2-0`
-4. Get the latest modules for ltsmin:
-    * `$ git submodule update --init`
-5. Configure:
+    * `$ cd spot-2.0`
+4. Configure:
     * `$ ./configure --prefix=$HOME/install --disable-python`
     * Perhaps change the prefix location. At current it will install to your `$HOME` directory under `install`.
-6. Make and install:
+5. Make and install:
     * `$ make && make install`
 
 
 ### Installing LTSmin
 
 1. Clone the LTSmin repository:
-    * `$ git clone git@github.com:vbloemen/ltsmin.git -b next`
+    * `$ git clone git@github.com:vbloemen/ltsmin.git -b hvc16 --recursive`
 2. Change directory:
     * `$ cd ltsmin`
-2. Checkout the version used for the paper:
-    * `$ git checkout hvc16`
-4. Get the latest modules for ltsmin:
-    * `$ git submodule update --init`
-5. Run `ltsminreconf`:
+3. Run `ltsminreconf`:
     * `$ ./ltsminreconf`
-6. Configure the LTSmin build:
+4. Configure the LTSmin build:
     * `$ ./configure --without-scoop --without-sylvan --with-spot=$HOME/install --prefix $HOME/install`
     * Perhaps change the prefix location. At current it will install to your `$HOME` directory under `install`.
-7. Make and install:
+5. Make and install:
     * `$ make && make install`
 
 
